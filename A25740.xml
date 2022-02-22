@@ -1,0 +1,1822 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An apology for a yovnger brother, or, A discovrse proving that parents may dispose of their estates to which of their children they please by I. A.</title>
+            <author>J. A. (John Ap Robert)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 104 KB of XML-encoded text transcribed from 34 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25740</idno>
+            <idno type="STC">Wing A3592</idno>
+            <idno type="STC">ESTC R9194</idno>
+            <idno type="EEBO-CITATION">12822661</idno>
+            <idno type="OCLC">ocm 12822661</idno>
+            <idno type="VID">94219</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25740)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94219)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 255:E170, no 3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An apology for a yovnger brother, or, A discovrse proving that parents may dispose of their estates to which of their children they please by I. A.</title>
+                  <author>J. A. (John Ap Robert)</author>
+               </titleStmt>
+               <extent>[10], 56 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Leonard Lichfield for Edward Forrest,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Epistle signed: J. A.</note>
+                  <note>Attributed to Ap Robert by Madan, BM, and Halkett and Laing.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Primogeniture --  England.</term>
+               <term>Inheritance and succession --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:94219:1"/>
+            <pb facs="tcp:94219:1" rendition="simple:additions"/>
+            <p>AN APOLOGY FOR A YOVNGER BROTHER OR <hi>A DISCO<g ref="char:V">Ʋ</g>RSE
+PRO<g ref="char:V">Ʋ</g>ING</hi> that PARENTS may diſpose of their Eſtates to which of their
+Children they pleaſe.</p>
+            <p>By I. A.</p>
+            <p>
+               <hi>Written for the generall good of this Kingdome.</hi>
+            </p>
+            <p>
+               <hi>OXFORD,</hi> Printed by LEONARD LICHFIELD for <hi>Edward
+Forrest,</hi> 1641.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:94219:2"/>
+            <pb facs="tcp:94219:2"/>
+            <head>TO <hi>ALL FATHERS AND SONNES OF WORTHY FAMILIES</hi> Whom
+Vertue, Birth, and Learning have iuſtly ſtiled <hi>GENTLEMEN,</hi> Health,
+Hapi<g ref="char:EOLhyphen"/>neſse, and Encreaſe of the beſt Knowledge.</head>
+            <p>
+               <seg rend="decorInit">A</seg>S in the Front of this brefe Diſcourſe, there is (Right
+Worthy Gentlemen) alrea<g ref="char:EOLhyphen"/>dy delivered vnto you ſome light of that which
+concernes the Qualitie, Reaſon, and Scope thereof: ſo doe I here
+ſin<g ref="char:EOLhyphen"/>cerely profeſſe, that J did not privatly write it at Firſt but for
+privat ſatisfaction; neither <pb facs="tcp:94219:3"/> doe I now make it publike, but with
+due relation to the generall good of <hi>Great Bri<g ref="char:EOLhyphen"/>taine,</hi> and for the
+exerciſe of Honourable Spi<g ref="char:EOLhyphen"/>rits, in this our much-ſpeaking and
+paradox<g ref="char:EOLhyphen"/>icall age.</p>
+            <p>Not vpon the leaſt preſumption of a ſelfe-ſufficiency, to
+confront thereby any recea<g ref="char:EOLhyphen"/>ved cuſtone (if any ſuch be) nor to diminiſh
+the naturall reverence due by Younger bro<g ref="char:EOLhyphen"/>thers to to theire Elder; not to
+enkindle Emu<g ref="char:EOLhyphen"/>lations in Families nor to innovate any thing to the prejudice of
+publike or privat quiet (which none I hope will be ſoe ill affected as to
+ſuppoſe,) neither mine in offenſive zeale for Younger Brothers (amongſt
+whom I am rancked one) nor the abſolute conſent of Im<g ref="char:EOLhyphen"/>periall and
+Eccleſiaſticall Lawes (which J haveing a litle ſtudied doe not a litle
+reſpect) nor the particular honor I beare to the vſages in this poynt, of
+our ancient Brittaines (from whom J am decended) nor deſire to main<g ref="char:EOLhyphen"/>taine and
+juſtifie an act in this kinde, done by a friend (whome I muſt ever
+reverence) nor yet the hope of bettering my private <pb facs="tcp:94219:3"/> fortunes
+(which moves men much in theſe our times) hath drawne me to this
+Vnderta<g ref="char:EOLhyphen"/>king: but principally (as before is ſome<g ref="char:EOLhyphen"/>what touched) the ſingular
+reſpect which (as a <hi>Patriot</hi>) I beare to the glory, and good of
+Gentlemens houſes, whoſe beſt o<g ref="char:EOLhyphen"/>riginall, ſureſt meanes of
+maintenance, and principall Ornament is <hi>
+                  <g ref="char:V">Ʋ</g>ertue,,</hi> or force of Minde:
+The want whereof, is a common cauſe of Ruine. The free power therefore of You
+who are Fathers, is here in ſome ſpeciall caſes argued and defended, to
+giue you oc<g ref="char:EOLhyphen"/>caſion thereby to conſider with the clearer Eye-ſight, for
+the eſtabliſhment and continu<g ref="char:EOLunhyphen"/>ance of Families. Here alſo the naturall
+Rights of vs that are Children be ſoe diſcour<g ref="char:EOLunhyphen"/>ſed and diſcuſſed, as
+that We younger Bro<g ref="char:EOLhyphen"/>thers may have caueſ and courage, to endea<g ref="char:EOLhyphen"/>vour by
+vertuous meanes, to make our ſelves (without the leaſt wrong to any)
+capa<g ref="char:EOLhyphen"/>ble (if need ſhall be) of the chiefeſt vſes. And Both, and All are
+ſo handled, as that no of<g ref="char:EOLhyphen"/>fence can reaſonably ariſe in any reſpect:
+much leſſe, for that the whole is conceaved <pb facs="tcp:94219:4"/> and written in
+nature onely of an Eſſay or Probleme, to which I binde no man to af<g ref="char:EOLhyphen"/>ford
+more beleefe, then himſelfe hath liking of: being free to refute the whole,
+or any part at his pleaſure, as he feeles himſelfe able and
+diſpoſed.</p>
+            <p>If I may ſeeme to ſome, to have handled this Subject with more
+earneſtneſſe and A<g ref="char:EOLhyphen"/>crimony then they thinke expedient: let them be
+plealed to weigh the <hi>Decorum</hi> of Diſputes, which is principally
+herein obſer<g ref="char:EOLhyphen"/>ved: their nature abſolutely requiring quick<g ref="char:EOLhyphen"/>neſſe and
+vehemency, on whether ſide ſoe<g ref="char:EOLhyphen"/>ver.</p>
+            <p>As for the remedies of Evils, by way of enacting Lawes, that is
+the proper office of Magiſtrates, and Courts of publike Coun<g ref="char:EOLhyphen"/>ſell:
+nevertheleſſe to ſpeake and treat of them (vnder the favour and
+correction of Superi<g ref="char:EOLhyphen"/>ours, to whome I doe alwaies very dutifully ſubmit) is a
+thing which may well belong to every man. But, for thoſe graue and Learned
+Cenſors, to home I may ſeeme to have be<g ref="char:EOLhyphen"/>ſtowed my paines in very
+needleſſe Argu<g ref="char:EOLhyphen"/>ments, <pb facs="tcp:94219:4"/> becauſe no leſſe then I my
+ſelfe, they hold the caſe (as here it is put) to be moſt cleere and out
+of controverſie: to ſuch I an<g ref="char:EOLhyphen"/>ſwer, that I writ it not for them,
+vnleſſe per<g ref="char:EOLhyphen"/>haps to confirme their judgements; but for others, who are not
+altogether ſo principled or perſwaded. Nor to any, as to preſcribe, or
+bind further then their owne conſciences ſhall think good. For that were
+farre too peremptory</p>
+            <p>Finally, nothing being here defended but by Authority, Reaſon
+and Example; nor a<g ref="char:EOLhyphen"/>ny perſon taxed, nor particular perſonall Vices; if
+neverthelſſe I have not perform'd my part in the work ſo well as J
+deſire, or as the Cauſe deſerves (which I feare I have not) yet my hope
+is (Right Worthy Fathers and Worthy Sonnes of Right Worthy Families) that for
+my honeſt meaning, and good In<g ref="char:EOLhyphen"/>tntentions ſake, you will ever conceave well
+of, and take in your ſpeciall Protection,</p>
+            <closer>
+               <signed>
+                  <hi>Your vnfained Well-wiſher, J.
+A.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:94219:5"/>
+            <head>THE CONTENTS</head>
+            <list>
+               <label>CHAP. 1.</label>
+               <item>The occaſions and ſcope of this Appoligie; to prove that
+Fathers may in ſome caſes diſpoſe their Estates to which of their
+Sonnes ſhall reaſonably pleaſe &amp;c. and that to be lawfull by the law
+of God, of Nature, and of Nations.</item>
+               <label>CHAP. 2.</label>
+               <item>That the grounds of good Conſtitutions being in Na<g ref="char:EOLhyphen"/>ture,
+yet ſhe neither before nor after the law of Propriety eſtabliſhed, did
+command, that all ſhould lle left to any one more then to another.</item>
+               <label>CHAP. 3.</label>
+               <item>That the breach of ſome written Lawes of God, vpon warrant
+of the primary Law of Nature, is without ſiinne: &amp; that therefore, ther
+can be no ſuch Right in primogeniture, which is not in the Fathers pow<g ref="char:EOLhyphen"/>er to
+avoid, though there were a precept to the con<g ref="char:EOLhyphen"/>trary, as there is not.</item>
+               <label>
+                  <pb facs="tcp:94219:5"/>
+                  <hi>CHAP. 4.</hi>
+               </label>
+               <item>That Nations beginning to deviſe ſundry Formes of
+ſetling Inheritances, the Romans eſpecially therein reſpected the free
+power of Fathers: the right of Children to their Fathers eſtates, beginning
+onely at their Fathers death.</item>
+               <label>CHAP. 5.</label>
+               <item>That the preſent cuſtom in our Country of giuing All, or
+almoſt All to the Eldeſt, was never ſo begunne, that it meant to exclude
+iuſt Remedies for ſuch E<g ref="char:EOLhyphen"/>vills, as ſhould grow out of the abuſe of that
+Cu<g ref="char:EOLhyphen"/>ſtome, when it may make Fathers guilty of their Sonnes faults, and of
+their Families ruines.</item>
+               <label>CHAP, 6.</label>
+               <item>That it is no offence before God, for a Father being Tenent
+in Fee-ſimple, to diſinherit the Eldeſt, or to parcell his estate vpon
+cauſe: and that extreame vices of Heires Apparent, together with the fewer
+meanes which younger Brothers haue now to liue on, then heretofore; cryeth out
+againſt the contrary opinion.</item>
+               <label>CHAP. 7.</label>
+               <item>That Fathers being Tenents in Fee-taile, may like<g ref="char:EOLhyphen"/>wiſe
+without ſcruple of Conſcience, diſcontinue the State-taile vpon cauſe;
+and deviſe the ſame at their reaſonable pleaſure.</item>
+               <label>
+                  <pb facs="tcp:94219:6"/>
+                  <hi>CHAP. 8.</hi>
+               </label>
+               <item>That Vnthriftineſſe is one knowne name of many hid<g ref="char:EOLhyphen"/>den
+ſinnes; and is alone a ſufficient cauſe of diſin<g ref="char:EOLhyphen"/>heriſon; proved by
+the Law of God and Man.</item>
+               <label>CHAP. 9.</label>
+               <item>The main points of the Premiſes exemplified indiuers
+particular Facts, as well of Princes, as of private perſons.</item>
+               <label>CHAP. 10.</label>
+               <item>That the Law of Naturall Equity &amp; Reaſon confirme
+Diſinheriſon: and that the riotous liues of Elder Brothers deſerue that
+vehement Increpation with which the Author cloſeth vp this Treatiſe.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="chapter">
+            <pb facs="tcp:94219:6"/>
+            <head>THE <hi>YO<g ref="char:V">Ʋ</g>NGER BROTHER</hi> HIS APOLOGIE. CHAP. 1. </head>
+            <argument>
+               <p>
+                  <hi>The occaſion of writing this Apologie, is to proue that
+Fathers may in ſome caſes diſpoſe their worldly Eſtates to which of
+their Sonnes ſhall reaſonably pleaſe, &amp;c. for ſo much thereof as
+they will; &amp; that to be lawfull by the Law of God, of Nature, and of
+Nations.</hi>
+               </p>
+            </argument>
+            <p>
+               <seg rend="decorInit">N</seg>OT many Moneths ſince be<g ref="char:EOLhyphen"/>ing invited by a deare Friend of mine
+to a ſolemne Feaſt, made by him to many of his well-deſeruing Friends, it
+was my fortune at that Meeting to acquaint my ſelfe with many Gentlemen of no
+meane diſcourſe: Whereby I fea<g ref="char:EOLhyphen"/>ſted as well my Vnderſtanding with their
+pleaſant <pb n="2" facs="tcp:94219:7"/> Societie, as my Taſt with the variety of moſt
+excel<g ref="char:EOLhyphen"/>lent Meats.</p>
+            <p>With what our ſenſes were delighted, I let paſſe to
+recompt, ſince neither profit, pleaſure, nor praiſe can ariſe thereof,
+either to the Writer or Reader. Onely my intent is, to make my Reader
+acquain<g ref="char:EOLhyphen"/>ted, what accident cauſed mee to write this ſmall Treatiſe, and
+emboldned me to publiſh the ſame to the common view of this
+all-reprehending Age. In which neuertheleſſe I rather hope for Allowance,
+then in any ſort feare Diſpleaſure.</p>
+            <p>For though my ſubject bee New, yet I hope it ſhall want at the
+firſt rather Age, and Strength, which growes by yeares; then probable
+Argu<g ref="char:EOLhyphen"/>ments, yea forcible Reaſons to defend it ſelfe. As for Friends, I
+truſt, it will finde ſome, and peradven<g ref="char:EOLhyphen"/>ture more then Enimies, if it
+deſerue well. For, as younger Brothers be more in number then Elder, ſo are
+they generally more free in beſtowing their deſerued Loue. For
+<hi>Want</hi> breeding <hi>Vnderstan<g ref="char:EOLhyphen"/>ding,</hi> makes them know and prize their
+Friends<note n="†" place="margin">Some <hi>frends</hi> ſticke cloſer
+then a <hi>Bro<g ref="char:EOLhyphen"/>ther,</hi> Prov. 18.1.24.</note> according to their Worth.
+Whereas the Elder, either ſeated in his Fathers Wealth or
+Poſſeſſions, with <hi>more then hopes</hi> to enjoy their Fortunes, doe
+ſometimes neither loue truly themſelues, nor any man elſe; but abuſing
+that which indeed might gain the loue of God and Man, &amp; eaſily maintaine
+their hereditary Honour, looſe themſelues in Vanity &amp; moſt idle
+courſes; yea in their Fathers liues, ſo ſtrangely carry themſelues
+<hi>(preſuming rather on precedence of Birth, then Worth)</hi> as though the
+Law <pb n="3" facs="tcp:94219:7"/> of God, of Nature, and all other Canon, Civill, &amp;
+Nationall Lawes, Conſtitutions, and Cuſtomes ſprung from them, could not
+either in Reaſon or Religion barre them of that which they expect; or giue to
+a well-deſeruing younger brother any little<note n="*" place="margin">The
+harſh and malevo<g ref="char:EOLhyphen"/>lent diſpoſiti<g ref="char:EOLhyphen"/>on of <hi>ſome El<g ref="char:EOLhyphen"/>der Brothers,</hi> is
+graphically delineated by our Saviour in the Parable, Luc. 15.28. [See verſ.
+32. <hi>the Fathers Apology for the younger.</hi>]</note> hope lawfully to
+ſhare with them the leaſt part of their Fathers Inheritance: much leſſe
+to expect an Elder Brothers Fortunes: or <hi>on any termes,</hi> or <hi>for any
+cauſe,</hi> by a Fathers favour, to ſteppe before them.</p>
+            <p>Which Argument among many others, was then handled by the Company
+<hi>pro</hi> and <hi>contra</hi> ſo doubtfully, that it gaue mee occaſion
+to write this preſent Diſcourſe concerning the free power of <hi>ſome
+Fathers.</hi> Wherein I intend not to diſpleaſe or inconciliate Elder
+Brothers; no not them, who not inheriting their Fathers Vertues, ſtriue not
+to maintaine their Anceſtors Honour, in preſeruing their Noble Names<note n="*" place="margin">Amongſt all Gods tempo<g ref="char:EOLhyphen"/>porall bleſ<g ref="char:EOLhyphen"/>ſings promi<g ref="char:EOLhyphen"/>ſed as
+Re<g ref="char:EOLhyphen"/>wards to his faithfull ſer<g ref="char:EOLhyphen"/>vants, I finde none greater in holy Writ, the<g ref="char:cmbAbbrStroke">̄</g>
+the ſprea<g ref="char:EOLhyphen"/>ding of their Family. So God to Abraham, I will make of thee a
+mighty people. What God prizes as ſo great a guerdon to his beſt Favorites,
+ſhall <hi>Vnworthy Man</hi> eſteeme a Trifle? Car<g ref="char:EOLhyphen"/>penter. Achitophel. part.
+3.</note> and Familes, by which as a reward to their Vertues and Trauels, Men
+haue al<g ref="char:EOLhyphen"/>waies laboured to liue to all ſucceeding Ages, in their
+Poſterity.</p>
+            <p>But my intent is to ſhew, how <hi>Opinion</hi> and
+<hi>Incon<g ref="char:EOLhyphen"/>ſideration</hi> make oft-times the Wiſe to bee ſcrupu<g ref="char:EOLhyphen"/>lous, and
+through <hi>ſuperstitious Zeale,</hi> not onely to feare to doe that which
+Reaſon may or might haue commanded; but in their <hi>erroneous
+Iudgements</hi> raſhly to condemne other mens Acts as vnlawfull 
+<pb n="4" facs="tcp:94219:8"/> and irreligious, which according to Reaſon and Religion
+haue beene done and ratified; vſing them<g ref="char:EOLhyphen"/>ſelues THAT CVSTOME for the
+overthrow of their Families, which was indeed only deuiſed for their
+preſervation; and being hoodwinkt with falſe conceipts, doe wittingly leaue
+that, which they and their Anceſtors had gotten, as the reward in this life
+of their vertues, to be the future Fuell of all inordinate Deſires &amp;
+Beſtiall ſenſuality, which in their providence they could willingly
+otherwiſe haue diſpoſed of.</p>
+            <p>All which I doubt not but to make cleare to the impartiall Reader:
+prouing by the Law of God &amp; Man, that a Fathers freedome is ſuch, that
+hee may <hi>Lawfully</hi> and <hi>Religiouſly</hi> giue his Lands &amp;
+Goods, or other his Fortunes, to any of his Children, for the preſeruation of
+his Name, and comfort of his Poſterity, without all ſcruple, as right
+Reaſon, or the better Deſerts of a Sonne ſhall perſwade him, void of
+all tenderneſſe or blindneſſe of Affection, which oftentimes leads a
+Fathers Will, &amp; corrupts his Vnderſtanding: ſo as he be true Lord
+thereof, not tied by conſideration of Mony receaued, or Contract made by
+Marriage of his Sonne, which may alter the caſe, and make the Sonne Lord, and
+the Father to haue but the vſe only during his life, as all our common
+Lawiers well know. In which caſe, we alſo haue experience, that our Law
+per<g ref="char:EOLhyphen"/>mits many times to alter the Title, and to vndoe what by former times was
+held not to bee control<g ref="char:EOLhyphen"/>led. But of this point I will not treat. Only I meane 
+<pb n="5" facs="tcp:94219:8"/> to argue, whether a Father poſſeſſed in Fee-Taile,
+may in law and equitie, vpon the former conſide<g ref="char:EOLhyphen"/>rations, make any child which
+hee hath, his Heire, leauing to the reſt a competency; and doe an Act which
+according to Equity &amp; Religion may ſtand good and valuable.</p>
+            <p>In this my preſent Diſcourſe let not any expect many
+Quotations of Authors; for I never read any of this ſubject. What I bare away
+of my friends Conference, I will ſet downe; and what other Rea<g ref="char:EOLhyphen"/>ſons my
+vnderſtanding ſhall afford; which I hope ſhall proue ſo
+Demonſtratiue, that they ſhall bee of Authority ſufficie<g ref="char:cmbAbbrStroke">̄</g>t<note n="*" place="margin">Tis one thing, to con<g ref="char:EOLhyphen"/>vince an error: another, to make men
+forſake it: A third, to win them to the truth. vid. pag. 117.2. part of
+divine Eſſence &amp; Attributes; by Reverend D. <hi>Iackſon,</hi>
+worthily honord with the Elogie of an <hi>Incomparable wri<g ref="char:EOLhyphen"/>ter;</hi> by M.
+<hi>Pinke</hi> of pious memory. See his Triall of ſynceritie: ſerm. 4. p.
+57.</note> to ſatisfy any Reader; or incite ſome better Penne to treat of
+the ſame more large<g ref="char:EOLhyphen"/>ly and ſubſtantially; and laſtly and chiefly, to
+cleare ſome of my Worthy Friends from thoſe imputa<g ref="char:EOLhyphen"/>tions, which I finde the
+Ignorant to lay vpon them. Which done, I ſhall thinke my Time and Paines well
+imploied.</p>
+         </div>
+         <div n="2" type="chapter">
+            <head>
+               <hi>CHAP. 2.</hi> 
+            </head>
+            <argument>
+               <p>That the grounds of all good Conſtitutions being in Nature,
+yet ſhe, neither before, nor after the Law of Propriety eſtabliſhed, did
+command, that All ſhould be left to any one, more then to another.</p>
+            </argument>
+            <p>SUch are the wiſe and temperate Workes of Nature,<note n="†" place="margin">Natura, Di<g ref="char:EOLhyphen"/>vinitatis ful<g ref="char:EOLhyphen"/>gor, Valleſ. de ſa<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. phil. c. 1. p, 22.</note> that nothing
+is done by her raſhly or vnadviſedly. For though in the Infancie 
+<pb n="6" facs="tcp:94219:9"/> of the World, ſhee had an invincible power to produce all
+effects which then had their Originall in her: yet, being ſtudious to
+pleaſe Man-kinde not only with variety, but alſo with raritie, ſhee
+ſucceſ<g ref="char:EOLhyphen"/>ſiuely diſcouers &amp; daily diſcloſes to the ſearching
+Wits of the World her Secrets, as Time and Place either hath or doth daily
+beget Occaſion; ſtill as it were keeping in ſtore her heauenly
+Treaſure, till Mans neceſſitie beſt moues her Liberalitie.</p>
+            <p>For what can the Wit of man deviſe, or what doth Time or Art
+make known which good is; that Nature, from the firſt time ſhee beganne to
+worke, hath not in her (though to her ſelfe only knowne) the ground thereof,
+either to produce the particu<g ref="char:EOLhyphen"/>lar or generall effect, which wiſely ſhee
+left to bee tempered, according as the Reaſon of Man (whoſe glory ſhe
+pretends) ſhould thinke fitteſt to giue the Forme, as Time, Place, and the
+nature of the Thing ſhould require?</p>
+            <p>For though Marriage, as it is a conjunction of Man and Woman,
+containing an inſeparable ſocie<g ref="char:EOLhyphen"/>tie of life, be of Nature it ſelfe, and
+had its Origi<g ref="char:EOLhyphen"/>nall in the ſtate of Innocence, which (as Divines &amp;
+Canoniſts hold) was vndoubtedly ordained for Iſſues ſake, whereby a
+Lineall ſucceſſion was alſo intended: yet, vntill neceſſity
+enforced Man to make Diviſion of the Bleſſings of God &amp; Nature, the
+Claimes and Rights which follow Lineall ſuc<g ref="char:EOLhyphen"/>ceſſion to Inheritance, were
+not diſcouered. For all <hi>communicable</hi> things being common amongſt
+Men, many Ages were numbred from the Worlds <pb n="7" facs="tcp:94219:9"/> beginning,
+before any man laid proper claime to a<g ref="char:EOLhyphen"/>ny thing, as due to himſelfe alone.
+Whereby it well appeares, that hereditary ſucceſſion, or Title to a
+Parents Lands or Goods, could not then be in vſe, or ſo much as thought
+of.</p>
+            <p>This, I perſwade my ſelfe, was the Law of <hi>Na<g ref="char:EOLhyphen"/>ture
+vndepraved.</hi> Which I incline my Will the ſooner to credit, becauſe I
+find that all ſorts of peo<g ref="char:EOLhyphen"/>ple, as well Chriſtians as others, who haue
+perfe<g ref="char:EOLhyphen"/>ction in Naturall ſociety, or a perfect and Religious life in a
+Naturall and worldly converſation of Me<g ref="char:cmbAbbrStroke">̄</g>, haue and doe daily imbrace this
+naturall and<note n="†" place="margin">See Acts 2.44.</note> bleſ<g ref="char:EOLhyphen"/>ſed
+Community.</p>
+            <p>Which happy Law of Nature (as I haue ſaid) for many ages
+endured, &amp; without doubt had lon<g ref="char:EOLhyphen"/>ger continued, had not ſinne (which
+breakes all vni<g ref="char:EOLhyphen"/>on, and depraues all Naturall perfection) gotten ſuch
+dominion in the minds of Men, that in Natu<g ref="char:EOLhyphen"/>rall Equity all things could not
+longer bee vſed in common.</p>
+            <p>For as ſome being poſſeſt with an inſatiate de<g ref="char:EOLhyphen"/>ſire to
+get, rule, and raigne; ſought the oppreſſion of others, by taking from
+the<g ref="char:cmbAbbrStroke">̄</g> that freedome which Nature had giuen them: So others giuen to
+ſenſua<g ref="char:EOLhyphen"/>lity and idleneſſe, ſought to liue of other mens la<g ref="char:EOLhyphen"/>bours;
+whereas by Natures lawes every one ought to liue by his proper induſtry,
+within the rules of Iuſtice and Honeſty. Wherevpon naturall Reaſon
+perſuaded, that all things being divided, every Man ſhould know his owne:
+otherwiſe, no peace or con<g ref="char:EOLhyphen"/>cord could be maintained in Humane ſociety. For 
+<pb n="8" facs="tcp:94219:10"/> all things being common, the way lay open to eve<g ref="char:EOLhyphen"/>ry man at
+his pleaſure to abuſe others, &amp; as it were to rob them of God his
+Bleſſing.</p>
+            <p>Herevpon, Ariſtotle judged the Diviſion of all worldly Goods,
+to haue been agreeable to the law of Nature, which the precept of our Decalogue
+ſeemes to approue, <hi>Thou ſhalt not ſteale.</hi> For the Law of God is
+never contrary to the Law of Nature: neither doth Nature ever contrary it
+ſelfe, though ſome may perhaps thinke that herein ſhe hath. For albeit at
+the Creation of all things to<g ref="char:EOLhyphen"/>gether with Man in the ſtate of Grace, a
+fraternall and amicable Community was intended: yet was it not ſo
+abſolutely reſolued of by Nature, but that by Neceſſity (I meane by the
+fall of Man from Gods Grace) ſhe did diſpenſe with this Law, and left
+free to Mans choice to embrace, vpon her war<g ref="char:EOLhyphen"/>rant, either the One or the Other,
+as beſt might fit the Time, Place, and Natures of Men, which ever ſince the
+World began, haue giuen occaſion of ma<g ref="char:EOLhyphen"/>king of all Lawes.</p>
+            <p>Whereby we ſee, that though Nature giue the grounds to Lawes,
+yet Mans vnderſtanding ſtill giues the particular Forme. For Nature
+creating Man, gaue to him thoſe worldly bleſſings to vſe well, with
+Warrant either to hold them in <hi>Com<g ref="char:EOLhyphen"/>mon,</hi> or in <hi>Proper,</hi> as
+reaſon from time to time could beſt perſuade his Will.</p>
+            <p>But, when Reaſon and Will had agreed, that it was fit that every
+Man ſhould enioy his Part in Proper; Nature moued Man further, and told him, 
+<pb n="9" facs="tcp:94219:10"/> that now he might lawfully think on his ſucceſſi<g ref="char:EOLhyphen"/>on;
+and not only liue in his ſpecies, but breath, as it were, to the Worlds end,
+in a lineall Poſterity by honorable Deeds and Vertuous Acts; with which
+Deſire, Nature, as a wiſe mother, ſo inflamed Man (her Nobleſt Child)
+after his Fall from Grace, that ſome Men by Natures light only, haue done
+Acts almoſt aboue Nature; and none haue hardly beene ſo baſe, but
+deſirous to liue, and leaue an honorable memory behind them.</p>
+            <p>Which that they may the better doe, Nature hath not only giuen
+them power to leaue their wel<g ref="char:EOLhyphen"/>gotten Wealth, but in a manner their
+habituall<note n="*" place="margin">They which are deſcended of ancient
+Nobility, haue in them an implanted compleat Ge<g ref="char:EOLhyphen"/>neroſity (or vertuous
+Diſ<g ref="char:EOLhyphen"/>poſition) <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Dio Caſ. Hiſt. Ro. l. 44. ex Orat.
+M. Antonii.</note> Vertues to their Iſſue; in which, this worldly Ho<g ref="char:EOLhyphen"/>nor
+(the Soules worldly life, and Vertue's tempo<g ref="char:EOLhyphen"/>rall Reward) may liue free from
+all-killing Time. Yet, did ſhee not then by any Command, leaue it to any one
+in particular, but giuing a generall ſugge<g ref="char:EOLhyphen"/>ſtion of the Fitneſſe of the
+Thing, left the Forme to their beſt Diſcretion. For had ſhee not done
+ſo, all Nations had beene tied to obſerue one Forme, in leauing their goods
+and Fortunes to their Poſte<g ref="char:EOLhyphen"/>rities; for Nature being One, without change to
+all, of neceſſity preſcribes no binding Rule to any in particular, but to
+all in generall; no man being able to ſay; This, Natures Law commands me to
+doe, &amp; yet binds not any other to doe the like. Which is evident in the
+Matter of Succeſſion,<note place="margin">Conſule Cla<g ref="char:EOLhyphen"/>riſſ. V. D.
+<hi>Zouch,</hi> de Iu<g ref="char:EOLhyphen"/>re Feudali. p. 18. &amp;. 21.</note> or Claimes of
+Inheritance; no one Country obſeruing the Forme held by another; or tying it
+ſelfe without controll to obſerue its owne, as I ſhall hereafter
+declare.</p>
+            <p>
+               <pb n="10" facs="tcp:94219:11"/>For albeit (as I haue ſaid) the Conjunction
+of Man and Woman (which we call Matrimony) to<g ref="char:EOLhyphen"/>gether with the Deſire of
+Iſſue, be of Nature, from whence alſo are ſprung not onely a Diviſion
+of the Goods and Fortunes of this World, but alſo a laudable Deſire to
+preſerue a Family and Name, by the ordination of Heires to well-gotten
+Poſſeſ<g ref="char:EOLhyphen"/>ſions; yet did Nature never ſet down as a Law, that thoſe
+Fortunes ſhould be left to the Elder Brother or Younger, or to any One in
+particular; or to All; but to whom the Father, being true and free Lord
+thereof, ſhould beſt deviſe by Will guided by Rea<g ref="char:EOLhyphen"/>ſon. For it was never
+yet averred by any ſound Di<g ref="char:EOLhyphen"/>vine, Philoſopher, or Lawyer, that Nature makes
+immediatly Heires, but Men, whom the poſitiue Lawes of every Country ordaine
+by that Forme and Power of Law, where ſuch an Act ſhould bee done. And this
+is (I preſume) without controll, what the Law of Nature commanded touching
+the Matter in Queſtion. Next, let vs ſee, what the Lawes of God doe
+command.</p>
+         </div>
+         <div n="3" type="chapter">
+            <head>
+               <hi>CHAP. 3.</hi> 
+            </head>
+            <argument>
+               <p>That the breach of ſome written Lawes of God, vpon warrant of
+the primary Law of Nature, is without ſinne: &amp; that therefore, there can
+be no ſuch Right in Primogeniture, which is not in the Fathers pow<g ref="char:EOLhyphen"/>er to
+avoid, though there were a precept to the con<g ref="char:EOLhyphen"/>trary, as there is not.</p>
+            </argument>
+            <p>IF Nature, being taken for the principal &amp; all-pro<g ref="char:EOLhyphen"/>ducing
+Cauſe of the whole Frame of the Vni<g ref="char:EOLhyphen"/>verſe, <pb n="11" facs="tcp:94219:11"/> with all
+Creatures therein, being nothing elſe but the working Will of the Higheſt
+and firſt Mo<g ref="char:EOLhyphen"/>ver (as Divines &amp; Philoſophers hold) then ſurely muſt
+Natures Law bee his Will, which hee cannot contradict or counter-mand, except
+hee ſhould bee contrary to Himſelfe, which he cannot. For, what is in God,
+is God, therefore Conſtant and Immu<g ref="char:EOLhyphen"/>table. Out of which Principle, it is
+eaſily proued, that if the Law of God teach that which the Law of Nature hath
+ordained, the Right of Inheritance cannot be tied to any other perſon or
+perſons, then to thoſe which the Fathers Will approues, accor<g ref="char:EOLhyphen"/>ding to the
+Power giuen him, by the Lawes of Na<g ref="char:EOLhyphen"/>tions where he liues. Which Power deriued
+from Natures Law, cannot erre from the Law of God. For whoſoever ſhall
+conſider but of Gods Com<g ref="char:EOLhyphen"/>mandements giuen to Man, ſhall well find, that God
+thereby hath ſtill ſeconded his former Ordinances giuen by Nature. For ſo
+long as Man-kinde liued in a ſort, after the Innocence which Gods Grace in
+his firſt Creation had wrought in him, God gaue him no other Law: But when as
+by ſinne thoſe ſparks which remained after his Fall, were quite
+extinguiſhed; he gaue him New Lawes, yet agree<g ref="char:EOLhyphen"/>able to Nature.</p>
+            <p>As for example in our preſent Affaires: When Man had made by
+Natures privilege partition of Gods and Natures Bleſſings, then God ſaid
+to his People by the mouth of <hi>Moſes, Thou ſhalt not ſteal: Thou
+ſhalt not covet thy Neighbours houſe, his Wife, his Ox, his Aſſe, or
+any thing that is his.</hi> As alſo, <pb n="12" facs="tcp:94219:12"/> 
+               <hi>Thou ſhalt
+not kill.</hi> Which with all other his Com<g ref="char:EOLhyphen"/>mandements teaching what ſinne
+is, are agreeable to the Law of Nature, yet are diſpenſed withall, as farre
+as the Lawes of Nature euer permitted. For, though that the expreſſe
+Command of God bee, thou ſhalt not couet any thing that is thy Neigh<g ref="char:EOLhyphen"/>bours,
+nor kill; yet, in ſome Caſes, Both may law<g ref="char:EOLhyphen"/>fully be done. The one, in
+extreame Want of pre<g ref="char:EOLhyphen"/>ſent Food: the other, in defence of Life &amp; Goods; In
+which, the Law of God, is good by the Origi<g ref="char:EOLhyphen"/>nall Law of Nature, which made All
+for the ſuſte<g ref="char:EOLhyphen"/>nance of Man; and gaue leaue to defend Life with with the
+loſſe of anothers Blood, yea Life, if other<g ref="char:EOLhyphen"/>wiſe it cannot be. Vpon which
+Ground, I argue thus.</p>
+            <p>Suppoſe the Law of God did at this preſent command (which
+indeed it doth not) that the In<g ref="char:EOLhyphen"/>heritance ſhould be left to any one
+particular Per<g ref="char:EOLhyphen"/>ſon, and namely to the Elder-Brother, yet in ſome Caſes it
+would not binde the Father to obſerue it. For as in the former Commandements,
+vpon ſome conſiderations the Commandement may bee diſ<g ref="char:EOLhyphen"/>penſ'd withall,
+ſo in this. For it is not ſufficient to be the Elder-Brother, or the
+neereſt in Blood to gaine an Inheritance in the Caſe which I haue now
+propoſed; for other Circumſtances muſt concurre, which if they be
+wanting, bare propinquity or an<g ref="char:EOLhyphen"/>cienty of Blood may iuſtly be rejected: &amp;
+he that is ſecond, third, fourth, fift, or laſt, may lawfully be preferred
+before the Firſt, and this, by all Law, Divine and Humane, and by all
+Reaſon, Conſci<g ref="char:EOLhyphen"/>ence, <pb n="13" facs="tcp:94219:12"/> and Cuſtome of Nations
+Chriſtian.</p>
+            <p>For if it ſhould happen that the next in Blood, ſhould be a
+Naturall Foole, or a Mad-man, or be<g ref="char:EOLhyphen"/>ing taken by the Turkes or Moores in his
+Infancy, and educated in their Religion, would maintaine the ſame: or if any
+other ſuch Accident, miniſtring cauſe of iuſt Exception ſhould fall
+out; is it likely that any Law would allow, that ſuch a man ſhould be
+admitted to the Inheritance? Wherefore how idly ſhould they talke, that would
+haue it to bee his Birth-right, or that God &amp; Nature had made him Heire;
+ſince neither God nor Nature doth imme<g ref="char:EOLhyphen"/>diatly make Heires, as before is
+declared. Vpon which Ground, our Common Lawyers ſay, that No Heires are
+borne, but Men and Law make them.</p>
+            <p>I confeſſe, that in Holy Writ, great<note n="*" place="margin">In alluſion hereto, the Church Tri<g ref="char:EOLhyphen"/>umphant is ſtiled, The
+Church of the Firſt-borne. Heb. 12.23.</note> Reſpect is had of the
+firſt-begotten, and a Bleſſing is held to come to Parents thereby. But
+this Bleſſing I pre<g ref="char:EOLhyphen"/>ſuppoſe to bee, that thereby the Feare of
+ſterility was taken away, which in the Old Law was held to be a great
+Puniſhment of God; &amp; in reſpect there<g ref="char:EOLhyphen"/>of, Parents had of themſelues,
+and by the Nationall Lawes &amp; Cuſtomes, a great Regard of their
+Firſt-begotten, and preferd them to the better part of their
+Poſſeſſions: yet, not by any Command from God, as a Precept to binde
+his Elect people vnder paine of ſinne. For had any ſuch Law bound them
+vnder ſuch a Penalty; then ſhould it binde all Chri<g ref="char:EOLhyphen"/>ſtians now, on the
+ſame Conditions. But we ſee it by Generall Practiſe of all Countries to
+be other<g ref="char:EOLhyphen"/>wiſe. <pb n="14" facs="tcp:94219:13"/> Therefore it followes directly, that it
+was not Gods Command, but a Nationall Law. For God both is, and ever was One,
+without change to all his People, &amp; ſo ever were &amp; will be his Laws
+Poſitiue, made for them that truly worſhip him.</p>
+            <p>The Claime which <hi>Eſau</hi> made to his Birth-right was not
+by the Law of God, as ſome ignorantly af<g ref="char:EOLhyphen"/>firme, but by the Lawes of his
+Country. For, ſhould the Divine Law haue commanded it, it had been ſinne in
+his Mother and Brother, by Cunning to haue got it from him. Neither could the
+Father or the State wherein they liued, vpon no juſt cauſe knowne but to
+God alone, without ſinne haue ſet<g ref="char:EOLhyphen"/>led the ſame vpon his Brother
+<hi>Iacob,</hi> as it was, and as it may ſeeme,<note place="margin">
+                  <hi>Iacob</hi> praela<g ref="char:EOLhyphen"/>tione divinâ &amp; primogeni<g ref="char:EOLhyphen"/>turam
+&amp; be<g ref="char:EOLhyphen"/>nedictionem promeruit (Ita Eximius Prae<g ref="char:EOLhyphen"/>ſul. D. Epiſc.
+<hi>Ciceſtr.</hi> Ap<g ref="char:EOLhyphen"/>parat. I.)</note> by allowance from God, and as it may
+bee judged by the ſucceſſe. Whereby it is thought, that God ordained it,
+as a Puniſhment of the One, and Bleſſing of the Other: which by the
+permiſſion of ſinne to bee committed, God never doth.</p>
+            <p>Neither did the Nationall Law or Cuſtome of the Iewes (as it is
+ſaid) abſolutely command the Father to leaue to his firſt begotten, all,
+or the grea<g ref="char:EOLhyphen"/>teſt part of his Goods and Fortunes. But in caſe he died, not
+diſpoſing thereof by Act in his Life, or Will at his death, then the
+Cuſtome<note n="†" place="margin">Viz. Groun<g ref="char:EOLhyphen"/>ded on the Right of
+Pri<g ref="char:EOLhyphen"/>mogeniture. See Deut. 21.17. and the <hi>Geneva</hi> note there.</note> of
+the Nati<g ref="char:EOLhyphen"/>on, laid a double Portion on the Eldeſt or Firſt-be<g ref="char:EOLhyphen"/>got, providing
+for the reſt proportionally.</p>
+            <p>By all which you may collect, that neither the Law of God or Man,
+in this caſe, commanded that <hi>Eſau</hi> ſhould haue the Inheritance;
+but Power to do <pb n="15" facs="tcp:94219:13"/> the contrary, was giuen to the Father in
+his Life<g ref="char:EOLhyphen"/>time, even by the Law it ſelfe. For many Divines hold that
+<hi>Eſau</hi> ſelling his Birth-right (as it is ter<g ref="char:EOLhyphen"/>med) ſold not Goods,
+or Lands, but his Claime of being<note n="*" place="margin">At firſt, Fa<g ref="char:EOLhyphen"/>thers
+&amp; their firſt borne af<g ref="char:EOLhyphen"/>ter the<g ref="char:cmbAbbrStroke">̄</g>, were both Kings &amp; Prieſts in their
+owne houſes: but in Moſes daies, this Preroga<g ref="char:EOLhyphen"/>tiue of Pri<g ref="char:EOLhyphen"/>mogeniture
+ceaſed: <hi>Aaron</hi> and his Pro<g ref="char:EOLhyphen"/>geny being in<g ref="char:EOLhyphen"/>veſted in the
+Prieſthood, &amp; <hi>Moſes</hi> being <hi>as King.</hi> Deut 33.5. (As
+ju<g ref="char:EOLhyphen"/>dicious Mr. Godwyn in his Moſes and Aaron. Lib. 1. c. 1)</note> High
+Prieſt after his Father, which by Cu<g ref="char:EOLhyphen"/>ſtome was to come to him being his
+Fathers Eldeſt Sonne. For which Dignity God ſeeing him vnfit, permitted him
+to paſſe away his Right in his Fa<g ref="char:EOLhyphen"/>thers life, as we read in Holy Writ, and
+which God ſeemed to approue. And thus I hope this Objecti<g ref="char:EOLhyphen"/>on is
+anſwered.</p>
+            <p>Further, if it were true, that the effect of Elderſhip were
+ſuch by the Law of God, as ſome paſſionate<g ref="char:EOLhyphen"/>ly defend, that is, that the
+whole Inheritance ſhould of Right pertaine to the Eldeſt; then ſure it
+follow<g ref="char:EOLhyphen"/>eth by good Conſequence, that there ſhould, nor ever could, haue
+beene but one Temporall Lord of all the World. For of Neceſſity
+<hi>Adams</hi> Inheritance ſhould haue gone ſtill to the next in Blood:
+which how abſurd it is, let all men judge.</p>
+            <p>Moreover, we read, that <hi>Noe</hi> hauing three Sons, and the
+whole world to leaue vnto them, gaue it not All to the Eldeſt, but equally
+divided it among them &amp; their Poſterity, as all Authentike Hiſtories
+doe witneſſe.</p>
+            <p>Againe, God requiring Obedience of Children to Parents, promiſed
+a Reward, ſaying, Honor thy Father and thy Mother, that thy Daies may bee
+long in the Land which the Lord ſhall giue thee; Which ſurely was not
+ſpoken to one, but to all the Children of men. For with God there is no
+Excep<g ref="char:EOLhyphen"/>tion <pb n="16" facs="tcp:94219:14"/> of Perſons, but as a juſt and pious Father,
+hee giues every one according to his Deſerts. <hi>Terram autem dedit filiis
+hominum.</hi>
+            </p>
+            <p>We read alſo in Holy Writ, how the Prodigall Sonne being weary
+of his Fathers houſe,<note place="margin">Luk. 15.12.</note> came to him and
+boldly ſaid, <hi>Pater, da mihi portionem ſub<g ref="char:EOLhyphen"/>stantiae meae quae me
+contingit:</hi> This child of which the Goſpell ſpeakes, was the younger
+Brother: yet you ſee how boldly he ſaid: Giue me that Portion of Goods
+which belongs to me. By which words it is evident, that a Diviſion or
+Partitio<g ref="char:cmbAbbrStroke">̄</g> of a Fathers Fortunes was then<note n="*" place="margin">As is fur<g ref="char:EOLhyphen"/>ther
+eviden<g ref="char:EOLhyphen"/>ced Luk. 12.13. where our Saviour was willed by One, to re<g ref="char:EOLhyphen"/>quire his
+Bro<g ref="char:EOLhyphen"/>ther to divide the Inherita<g ref="char:cmbAbbrStroke">̄</g>ce with him. Which was the ſuit of a younger
+Bro<g ref="char:EOLhyphen"/>ther (aggree<g ref="char:EOLhyphen"/>ved at the churliſh Ini<g ref="char:EOLhyphen"/>quity of his Elder.) <hi>The
+Iudgement of that Illuſtri<g ref="char:EOLhyphen"/>ous &amp; Religi<g ref="char:EOLhyphen"/>ous Divine, M. Iohn Ha<gap reason="illegible" resp="#OXF" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> the moſt ex<g ref="char:EOLhyphen"/>quiſite Illu<g ref="char:EOLhyphen"/>strator of
+Chryſoſtome, publiſht by the Right Noble Knight Sir Henry Savile,
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> in Glory.</hi>
+               </note> in vſe:
+and that any child as well younger as elder had power by law to demand his
+Legitimate, or Childs part, according to the na<g ref="char:EOLhyphen"/>ture of the Civill and Canon
+Law, as you haue heard. For the words following in the ſacred Text are
+theſe, <hi>Et diviſit ſubstantiam illis.</hi> And hee divi<g ref="char:EOLhyphen"/>ded vnto them
+his Living. Thus wee ſee, that the privilege of Elderſhip was then
+excluded; which now in our Country by Cuſtome only, is gotten to be of ſuch
+Force.</p>
+            <p>But it may be objected, that this was a Parable only (as indeed it
+was) and cannot bee alleaged as Law. True it is; yet it cannot be denied, but
+that all Similies, Parables, or Examples, which ever were alleaged by the
+wiſe and learned to repreſent the Truth, haue euer beene deriued from the
+cuſtome and nature of Things, according to the knowne Truth in that time, and
+place, and to thoſe perſons to whom the Speech or Diſcourſe is
+directed. And ſhall we thinke that our Saviour Chriſt being Wiſ<g ref="char:EOLhyphen"/>dome 
+<pb n="17" facs="tcp:94219:14"/> and Truth it ſelfe, treating of ſo important an
+Affaire, as he did then in the Goſpell, would vſe an vnknowne
+Diſcourſe, or ſtriue to make the Truth appeare to our weake
+Vnderſtanding by a Parable which in Equity could not bee true? No ſurely.
+For it appeares by <hi>Solomon</hi> his ſucceeding his Father <hi>David,</hi>
+that <hi>David</hi> had power by the Lawes of God and Man, to giue his Kingdome
+to the worthieſt; which hee deeming to be <hi>Solomon,</hi> gaue to him his
+Kingdome, though hee was the youngeſt Sonne.</p>
+            <p>Neither was there any juſt exception made a<g ref="char:EOLhyphen"/>gainſt
+<hi>Adonias</hi> his Eldeſt Brother, or againſt ſome other of his
+Brethren, why they ſhould be diſinhe<g ref="char:EOLhyphen"/>rited by their Father <hi>David</hi>
+contrary to the com<g ref="char:EOLhyphen"/>mon practiſe of thoſe Times in ſetling Inheritan<g ref="char:EOLhyphen"/>ces.
+But the onely knowne reaſon of this Act in Scripture, was <hi>Davids</hi>
+Promiſe,<note place="margin">1. Kings. 1.</note> made to <hi>Solomons</hi>
+Mother, together with her great Entreaty made to <hi>David</hi> to performe it.
+Which ſurely he would not not haue done, had he not found a lawfull Power in
+himſelfe, to haue executed the ſame.</p>
+            <p>Laſtly, it is invincibly proued out of the Booke of
+<hi>Iob,</hi> who was contemporary with <hi>Moſes</hi> (by at<g ref="char:EOLhyphen"/>teſtation of
+judicious Theologians) that there was in thoſe Times and Countries no ſuch
+Law or Cu<g ref="char:EOLhyphen"/>ſtome, that the Eldeſt ſhould play at Sweep-ſtake, and all
+the reſt be left to the foure Windes: for it is expreſly recorded in the
+laſt Chapter, and the 15 Verſe; that <hi>Iob</hi> gaue his Daughters,
+Inheritance <hi>among their Brethren:</hi>
+               <note place="margin">Iob. 42.15.</note>
+Which comes home to the <pb n="18" facs="tcp:94219:15"/> point in Queſtion, and
+irrepliably evinces a Fathers Power and Right to make ſuch a Partition of his
+Eſtate among his Children, as vpon emergent occa<g ref="char:EOLhyphen"/>ſion, he ſhall judge
+expedient.</p>
+            <p>And thus much concerning what may bee ſaid out of Scripture, or
+Law of God, in our preſent Queſtion.</p>
+         </div>
+         <div n="4" type="chapter">
+            <head>
+               <hi>CHAP. 4.</hi> 
+            </head>
+            <argument>
+               <p>That Nations beginning to deviſe ſundry Formes of ſetling
+Inheritances, the Romans eſpecially therein reſpected the free power of
+Fathers: the right of Children to their Fathers eſtates, beginning onely at
+their Fathers death.</p>
+            </argument>
+            <p>
+               <seg rend="decorInit">H</seg>Auing now declared what the Laws of God and Nature determine of
+our preſent Queſtion: we intend to exa<g ref="char:EOLhyphen"/>mine in breefe, what is commanded by
+the Law of Man, as well Civill, of other Nations; as Common, of our owne
+Coun<g ref="char:EOLhyphen"/>try. And firſt concerning the Civill Law.</p>
+            <p>Though all Law, which ever had but the Name or Credit of Law, doth
+ſurely deriue her Originall from the Law of Nature, wherevpon <hi>Cicero</hi>
+many hundred yeares ſince ſaid, that the Ground of all Law-making, is to be
+taken from the chiefe Law, which was made before any Law was written, or City
+builded: yet doe they differ much in Forme. For as it is no Law, but Tyranny,
+which wholy diſ<g ref="char:EOLhyphen"/>agrees with the Law of Nature, as <hi>Ariſtotle</hi>
+ſaith: <pb n="19" facs="tcp:94219:15"/> ſo if it agree in All with the Law of Nature,
+with<g ref="char:EOLhyphen"/>out limitation or difference, it muſt of Force be the very Law of Nature
+it ſelfe; and not the Law of Man. Which ſurely is nothing elſe, then a
+Temper or Forme of Equity drawne by right Reaſon from the Grounds of Natures
+Laws; according as Time, Place, and the Natures of Men either gaue, or ſhall
+giue Occaſion. For though new Lawes bee daily made of new and ſeuerall
+Accidents; yet all are a<g ref="char:EOLhyphen"/>greeable to the old and ancient Grounds of Reaſon in
+Nature, the Grand-Mother of all Law. Where<g ref="char:EOLhyphen"/>fore hauing before ſpecified what
+the Law of Na<g ref="char:EOLhyphen"/>ture is touching the Point in Queſtion, I ſhall now declare,
+what Temper or Forme hath thereto beene added by the Civill Lawyer.</p>
+            <p>After that Man-kinde was inforced (yet by Na<g ref="char:EOLhyphen"/>tures Warrant) to
+make (as I haue ſaid) a partition of the Bleſſings of God and Nature: and
+that Men were poſſeſt by the ſame Right of Goods &amp; Lands which they
+deſir'd to leaue to Poſterity; Law-ma<g ref="char:EOLhyphen"/>kers, and in particular, the
+Civilian, deviſed by little and little certaine Formes of Inheritance, and
+or<g ref="char:EOLhyphen"/>dination of Heires, at firſt ſomewhat rigorous, gi<g ref="char:EOLhyphen"/>ving to Parents power
+of Life &amp; Death ouer their Children, and a free diſpoſition of all
+their For<g ref="char:EOLhyphen"/>tunes to any one of them in his life: but dying inte<g ref="char:EOLhyphen"/>ſtate, then
+all which was the Fathers, to be equally divided among the Children, as well
+daughters as ſonnes. Which Conſtitution was afterward vpon good grounds
+altered: the Father being bound to leaue every child a Portio<g ref="char:cmbAbbrStroke">̄</g>, which the
+Civilian cals a <pb n="20" facs="tcp:94219:16"/> 
+               <hi>Legitimate,</hi> Others a Patrimony;
+which at firſt, was the eight part of the Fathers ſubſtance, equally to
+be divided (as hath beene ſaid:) which after a while ſeeming litle, the Law
+commanded that the Fourth part ſhould be left without Controll: except vpon
+juſt cauſe the Teſtator did diſinherite him or them who by courſe of
+Law were to ſucceed him: ſtil vp<g ref="char:EOLhyphen"/>holding the former Lawes, that as well
+daughters as ſonnes, ſhould equally ſucceed their Parents dy<g ref="char:EOLhyphen"/>ing
+inteſtate; Herein aſſigning fourteene cauſes why an Heire might
+lawfully be diſinherited.</p>
+            <p>Many hundred yeares paſſed fro<g ref="char:cmbAbbrStroke">̄</g> the eſtabliſhing of the
+Civill Law, before it was ordained by force of Law, that Parents ſhould leaue
+a Childs part (as it is now called) or that they could not diſinherit,
+without expreſſing the cauſe thereof in their laſt Will: yet, in all
+this Time, nor till this preſent Day, the Privilege of engroſſing all by
+<hi>Primogeniture</hi> was not once heard of, or at leſtwiſe not admitted,
+but rather excluded; as by many Text in the ſame Law it well appeares: The
+End of the Imperiall or Roman Civill Law, being only to maintaine Mo<g ref="char:EOLhyphen"/>rall
+Iuſtice in three ſhort Precepts; <hi>Liue honeſtly. Hurt no Man. Giue
+every one his owne.</hi> So that hee who obſerues theſe three, fulfills
+this Law, yea the Law of Nature, whence this Law is deriued. Now, if any
+Brother can proue, that his Father either in his life by Deed, or by Will at
+his Death, diſpoſing of his Goods and Lands no otherwiſe then I haue
+declar'd, doth no act againſt theſe three; why ſhould he not content
+himſelfe, either with the Fruits of his <pb n="21" facs="tcp:94219:16"/> Fathers loue, or
+his owne Deſerts what ever they bee.</p>
+            <p>True it is, that in Naturall Iuſtice, children du<g ref="char:EOLhyphen"/>ring their
+Fathers life, haue <hi>Ius ad rem,</hi> not <hi>Ius in re</hi> to a Fathers
+Goods: Wherevpon the Law calleth them <hi>quaſi bonorum Patris Dominos.</hi>
+Which their Right only takes effect after their Fathers Death. For during life,
+he hath power to alter, alien, ſell, &amp; giue, as it ſhall pleaſe him,
+according to forme of Law: but being dead without Will, or diſpoſition
+thereof, they fall vpon his children, according to the Law of Nations. This Law
+embraceth a two<g ref="char:EOLhyphen"/>fold Iuſtice, the one in Exchange, the other in
+Di<g ref="char:EOLhyphen"/>ſtribution. The firſt hath not to doe with our cauſe: The other<note n="*" place="margin">This war<g ref="char:EOLhyphen"/>rants not the injurious Ab<g ref="char:EOLhyphen"/>dication of vnnatural
+Pa<g ref="char:EOLhyphen"/>rents; (irre<g ref="char:EOLhyphen"/>mediable by the common Law: as is al<g ref="char:EOLhyphen"/>ſo the oppreſ<g ref="char:EOLhyphen"/>ſion
+of Or<g ref="char:EOLhyphen"/>phans by lewd Step-fathers and ſharking Executors.) See D. Rid<g ref="char:EOLhyphen"/>leys
+View (re<g ref="char:EOLhyphen"/>publiſht by a learned Stu<g ref="char:EOLhyphen"/>dent of the Royall Col<g ref="char:EOLhyphen"/>lege of Chriſt
+Church Ox<g ref="char:EOLhyphen"/>on.) part. 4. Sect. 1. &amp; 2.</note> rather commends then condemnes
+a Father, who vpon good Occaſion, that is, for the bad Demerits of his
+Eldeſt Sonne, and for the pre<g ref="char:EOLhyphen"/>ſervation of his Family, ſhall giue or
+convey his Lands or Goods to the Younger. For the Nature of diſtributiue
+Iuſtice, is not only to giue proporti<g ref="char:EOLhyphen"/>onally to the well-deſeruing: but
+alſo to forbeare to place Benefits vpon any one who ſhall abuſe them: or
+vſe the<g ref="char:cmbAbbrStroke">̄</g> to any other end, then to that good for which they were lent, and
+hee ſhall leaue them. And this is <hi>Ius ſuum vnicui<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> tribuere.</hi>
+For no man can giue or ſell his Goods to an evill end, or to any one, who he
+aſſures himſelfe, will vſe them to the Diſhonour of God, or the Wrong
+of thoſe who ſhall liue with him, or by him: whereof I will treat more in
+the ſeventh Chapter; being then to handle, what a Father may in Conſcience
+doe or not doe, <pb n="22" facs="tcp:94219:17"/> in our preſent Queſtion, with ſinne
+&amp; without ſin. And thus much of the Civill and Canon Lawyers Averment of
+an Elder Brothers Right to his Fa<g ref="char:EOLhyphen"/>thers Fortunes.</p>
+         </div>
+         <div n="5" type="chapter">
+            <head>
+               <hi>CHAP. 5.</hi> 
+            </head>
+            <argument>
+               <p>That the preſent cuſtom in our Country of giuing All, or
+almoſt All to the Eldeſt, was never ſo begunne, that it meant to exclude
+iuſt Remedies for ſuch E<g ref="char:EOLhyphen"/>vills, as ſhould grow out of the abuſe of that
+Cu<g ref="char:EOLhyphen"/>ſtome, when it may make Fathers guilty of their Sonnes faults, and of
+their Families ruines.</p>
+            </argument>
+            <p>
+               <seg rend="decorInit">I</seg> Haue purpoſely reſerued to treat of the Lawes of our
+Country in the laſt place, becauſe (I aſſure my ſelfe) they are of
+moſt force to ſway the Point in queſtion. For many things may be
+permitted by the Lawes of God and Na<g ref="char:EOLhyphen"/>ture, and yet contrarily prohibited, or
+practiſed by courſe of Law, in ſeverall States of the World, as the
+Law-makers and Cuſtomes of Countries allow or command. I confeſſe, the
+generall practiſe of our Time among Parents, is to leaue either All or moſt
+part of their Lands to their Eldeſt Sonne. This que<g ref="char:EOLhyphen"/>ſtionleſſe (as hath
+beene ſaid) was firſt deviſed in former Ages, for the preſervation of a
+Family, and to raiſe One who might bee a Comfort to his Bro<g ref="char:EOLhyphen"/>thers, Siſters,
+and Family, and in whom his Proge<g ref="char:EOLhyphen"/>nitors Vertues might liue to the World. And I
+wil not deny, but the Partition of Lands, may reduce in <pb n="23" facs="tcp:94219:17"/>
+the end, a goodly Eſtate to Nothing, or to ſo litle, as it may be like an
+Atome in the Sun; yet I finde in Naturall Reaſon, that, <hi>ex nihilo nihil
+fit,</hi> or at leſt, that 
+<q>
+                  <l>Haud facilè emergunt, quorum virtutibus obſtat</l> 
+                  <l>Res anguſta domi.—</l>
+               </q> But if Men faile of thoſe
+happy Ends,<note place="margin">Ceſſante rati<g ref="char:EOLhyphen"/>one, ceſſat Lex,</note> to
+which this generall Cuſtome ſhould guid, then could I wiſh, that they
+would not vſe That for their Deſtructi<g ref="char:EOLhyphen"/>on, which was meant for their
+Preſervation. For who ſees not, in theſe our Times, many vnbridled youths
+ſo violently carried away with the humour of ſpending, that they neglect
+Brother and Siſter; yea, bring to extreame miſery their Naturall Mo<g ref="char:EOLhyphen"/>thers
+after their Fathers Death, by their vnthrifti<g ref="char:EOLhyphen"/>neſſe. What help for this
+hath Law left vnto vs? No meanes to bridle theſe vnruly Colts, if they
+be<g ref="char:EOLhyphen"/>come Heires according to the cuſtome of our Time? No truly. For ſome
+ſtarting-hole will bee found, to vnty the Knot which a Fathers care once
+tied. How then? Muſt many a hopefull and well-deſeruing Brother and
+Siſter, bee left to the Mercy of this Whirlewinde? There is no Neceſſity.
+For our Law hath giuen Power to a Father, and Free-will to diſpoſe of his
+Owne, according as Reaſon ſhall guid his Will, without all obligation to
+his Heire. Beſides, this Cuſtome takes place only after a Fathers Death, if
+hee diſpoſe not what is his, by Deed in life, or by Will at his Death. But
+leſt my Words bee more generally taken, then they are meant; I meane thoſe
+Fathers, who are poſſeſt of <pb n="24" facs="tcp:94219:18"/> their Lands in Fee, or
+Fee-taile: that is, are abſolute of themſelues, and haue not vpon good
+Conſidera<g ref="char:EOLhyphen"/>tion convaied their Lands from themſelues. For all our Lawyers
+agree, that ſuch Parents may alien, ſell, and giue, by power of our Law,
+their Lands to whom they will, without reſpect of Perſon or
+El<g ref="char:EOLhyphen"/>derſhip.</p>
+            <p>But may ſome ſay, the Cuſtome is otherwiſe, &amp; this
+Cuſtome is a Law. True, it is the Cuſtome: But let vs ſee, whether it
+binde <hi>ſub peccato,</hi> or as a Cuſtome, which rather invites then
+commands. There was never any Command to tye a Father vnder a Penalty which
+admits no limitation; but it was euer left indifferent, and then only to take
+place where former Proviſion according to courſe of Law is not made. Then
+ſurely a Parent is free from this devouring Cuſtome, and may
+conſiderately prevent what Evill it may bring to his poſterity: yea,
+Reaſon commands it ſhould be ſo. For, <hi>Inter<g ref="char:EOLhyphen"/>eſt Reip. vt quilibet
+re ſuâ benè vtatur:</hi> It concernes the publike State that Men
+be <hi>Good Husbands;</hi> ſaith the Ciuill Law. For if a Man can neither
+ſell, nor ſet, much leſſe can hee giue any thing to another, which he
+thinkes in his Conſcience, will vſe it to the Diſhonour of God, and the
+Ruine of himſelfe, or others.</p>
+            <p>Divines hold, that it is not lawfull to ſell or let a houſe to
+any that hee thinkes aſſuredly will make thereof a Stewes; or to ſell,
+giue, or lend a Weapon to a man who intends therewith to doe murther.
+Excommunications are impoſed on them, who ſell <pb n="25" facs="tcp:94219:18"/> Armes
+Offenſiue, or Defenſiue to <hi>Turks,</hi> though they bee not aſſured,
+they will vſe them againſt Chriſtians.</p>
+            <p>Thus, we ſee, the Rule of Conſcience, not onely commands a man
+to vſe wel thoſe Fortunes which God hath beſtowed on him; but forbids
+him, ei<g ref="char:EOLhyphen"/>ther vpon Affection, or Gaine, to part with them to others who will
+abuſe them, leſt hee partake of o<g ref="char:EOLhyphen"/>thers ſinne: which a Parent may doe
+after death, who leaues his Lands to a deſperate Vnthrift. But, what Religion
+and Conſcience commands, ſhall be declared in the following Chapter. In
+which, vpon Principles drawne from the former Concluſions, ſhall be argued,
+what ſinne may bee contracted by the parting an Eſtate among Sonnes, or by
+diſinhe<g ref="char:EOLhyphen"/>riting an Eldeſt ſon vpon juſt Cauſe; &amp; to whom the
+Father is onely tied by the Cuſtome of the the Countrey, without Obligation
+of Promiſe, or Contract in Marriage, which may alter the Caſe.</p>
+         </div>
+         <div n="6" type="chapter">
+            <pb n="26" facs="tcp:94219:19"/>
+            <head>
+               <hi>CHAP, 6.</hi> 
+            </head>
+            <argument>
+               <p>That it is no offence before God, for a Father being Tenent in
+Fee-ſimple, to diſinherit the Eldeſt, or to parcell his estate vpon
+cauſe: and that extreame vices of Heires Apparent, together with the fewer
+meanes which younger Brothers haue now to liue on, then heretofore; cryeth out
+againſt the contrary opinion.</p>
+            </argument>
+            <p>
+               <seg rend="decorInit">T</seg>HE Right of theſe <hi>inſociable Inhe<g ref="char:EOLhyphen"/>ritors,</hi> of which
+wee now treat, may grow (as I conceaue) from three Ti<g ref="char:EOLhyphen"/>tles or Claimes, which
+they may pre<g ref="char:EOLhyphen"/>tend to a Fathers Inheritance, and whereby it may be deemed (as
+they thinke) ſinne in a Father, vpon what Deſert ſoeuer, to barre them of
+the ſaid Right. Theſe three Titles, are <hi>Purchaſe, Cuſtome,</hi> and
+<hi>Entaile.</hi> Of each ſeuerally. And of the firſt, which is
+<hi>Purchaſe.</hi> Surely in the Iudgement of the Good &amp; Learned, there
+is no queſtion in Law, or Conſcience, but that a ſonne joyned Purchaſer
+with his Father, hath <hi>Ius in re,</hi> and by Equity muſt, ſurviuing his
+Father, inherite ſuch Lands as were purchaſed in their Names.</p>
+            <p>Now of the other two, though it be as cleere as Noone-light, that
+a Lord in Fee-ſimple, or Tenent in Taile, may ſel, or giue by courſe of
+our common Law, at his pleaſure all ſuch Lands held by him, in that kind,
+according to thoſe formes of Law, which the learned in our Lawes haue, and
+can ſet downe: <pb n="27" facs="tcp:94219:19"/> yet there ſeems to ariſe a great
+Difficulty, how ſuch an Act or Acts may in Conſcience be executed. I haue
+heard ſome ſay, in this our Caſe, <hi>ſummum Ius, ſumma
+injuria.</hi>
+            </p>
+            <p>Of theſe Points therefore I will ſpeake <hi>(Salvo meliori
+judicio)</hi> what may in Conſcience, vpo<g ref="char:cmbAbbrStroke">̄</g> good and juſt Occaſion giuen
+by the Sonne to his Fa<g ref="char:EOLhyphen"/>ther, bee put in Execution. It is well knowne to all
+Divines (as I haue ſaid) that Holy Writ hath not preſcribed any direct or
+preciſe Forme to the Chil<g ref="char:EOLhyphen"/>dren of God, whereby they are bound in
+Conſci<g ref="char:EOLhyphen"/>ence to diſpoſe of their Lands and Goods, but hath abſolutely
+left them to the Cuſtomes of their Country, where any Act of that kinde
+ſhall be ex<g ref="char:EOLhyphen"/>ecuted; only as confirming all Formes of Deviſes which by
+publike Conſent, and Authority, either haue, or ſhall in rightfull manner
+bee deviſed or or<g ref="char:EOLhyphen"/>dained.</p>
+            <p>Out of this Ground and others prementioned, let vs examine,
+whether a Father parting his For<g ref="char:EOLhyphen"/>tunes by Power of Law, and on juſt Cauſe;
+ſhall do a wrongfull and ſinfull Act, as ſome would make it. I
+confeſſe, that every Act in it ſelfe, or by cir<g ref="char:EOLhyphen"/>cumſtance evill, and
+which vpon no occaſion can be juſtified, is both before God and Man,
+ſinne, and by no meanes to be executed by a Chriſtian. But that the parting
+of an Inheritance, or Diſinheriting of an Eldeſt Sonne, vpon <hi>juſt,
+and evident cauſe of incapacity,</hi> &amp; according to <hi>Courſe of
+Law,</hi> is an Act of <hi>that Nature,</hi> doth not appeare. For I finde not,
+that either the Law of Nature or Grace, nor yet <pb n="28" facs="tcp:94219:20"/> the Lawes
+of Man, Common, Civill, or Canon, ever for bad ſuch Acts, whereby ſinne may
+bee im<g ref="char:EOLhyphen"/>puted to thoſe who doe them on good Conſidera<g ref="char:EOLhyphen"/>tions. Sure I am that
+the Canon and Civill Law are ſo farre from forbidding them, that they
+com<g ref="char:EOLhyphen"/>mand, as a Thing in Equity, the Father either to di<g ref="char:EOLhyphen"/>vide his Inheritance,
+or allow him according to his Affection, to giue to one more then to another:
+yet with this Proviſo, that hee who hath the leſt, haue his<note n="*" place="margin">Or lawfull Portion: See pag. 61. of Dr Ridleys View illuſtrated
+by the judiciouſ<g ref="char:EOLhyphen"/>ly <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ined Mr <hi>Gregory.</hi>
+               </note> Childs
+part; which the Law doth alſo aſſigne, except on juſt deſert he
+diſinherit any one: which at this day may, yea muſt bee by Will, with the
+cauſe of Diſinheriſon therein ſpecified. Of which Cauſes the
+Imperiall Lawes haue ſet downe foure<g ref="char:EOLhyphen"/>teene, as may well appeare to them who
+are deſi<g ref="char:EOLhyphen"/>rous to vnderſtand more thereof. So it is evident, that by theſe
+two Lawes, no ſinne can grow vpon ſuch Acts, being done vpon their Warrant,
+and vp<g ref="char:EOLhyphen"/>on on ſuch Conſideration, as is formerly deliuered.</p>
+            <p>As for the Common Lawes of our Realme, ſure it is, they allow no
+leſſe, and with a greater Privi<g ref="char:EOLhyphen"/>lege. For a Man may by this Law, giue his
+Lands held in Fee, either by Deed in his life, or by Will at his death, to any
+of his Children; yea to a ſtranger, without rendring a Reaſon why he doth
+ſo. True it is, that a Father not diſpoſing thereof in ſuch ſort,
+Cuſtome giues the whole Eſtate to the Eldeſt: yet in ſome part of our
+Countrey, the youngeſt Bro<g ref="char:EOLhyphen"/>ther, by cuſtome is to haue the Land, held by
+ſome kind of Tenure, if the Father in his life-time diſ<g ref="char:EOLhyphen"/>poſe not
+thereof.</p>
+            <p>
+               <pb n="29" facs="tcp:94219:20"/>As yet therefore I cannot ſee, how any
+ſinne is committed, or contracted by the former Acts, being neither done
+againſt the Law of God or Man, as we haue proued: vnleſſe it ſhould be
+ſaid to bee ſin, not to leaue it to the Power of a Cuſtome: which cannot
+be, except the former Law ſhall bee proued not to be of Force, and not to be
+executed; which can no way be done: Though I muſt confeſſe, that the
+Cuſtome of leauing the Child-eſtate to the El<g ref="char:EOLhyphen"/>deſt ſonne, hath of
+latter Times beene much imbra<g ref="char:EOLhyphen"/>ced by our Gentry, for the preſervation of
+their Families, for which it was invented. For the Times haue ſo ruled, that
+Men of ſort, being either idle, or not poſſeſt with a couetous Humour,
+haue conten<g ref="char:EOLhyphen"/>ted themſelues with their Fathers Fortunes, and prefer'd their
+younger ſonnes by thoſe meanes which the Times did afford: namely, by many
+commendable Courſes; as either by ſervice of Spi<g ref="char:EOLhyphen"/>rituall and
+Eccleſiaſticall Perſons, whereby many were raiſed: or by profeſſing
+a ſpirituall Life, wher<g ref="char:EOLhyphen"/>by the younger Brother hath oft-times in Honour
+ſtept before the Elder. But this manner of Life, is not ſo gratefull to our
+Engliſh Gentlemens Na<g ref="char:EOLhyphen"/>tures, as anciently it hath beene.</p>
+            <p>
+               <q>The Trade of the Merchant, the Military pro<g ref="char:EOLhyphen"/>feſſion, the
+Courtiers life, advanced many more, then now they doe; and laſtly, Elder
+Brothers in former Ages were (generally) of better Temper in ſpending: and if
+they had no humour to get, yet had they a care to keepe what was left them: and
+ever held themſelues bound by Religion to <pb n="30" facs="tcp:94219:21"/> provide for
+their younger Brothers and Siſters left to their Diſpoſe, which now is
+far otherwiſe. For ſome Elder Brothers are found to ſpend more in a yeare
+idly, then would prefer or main<g ref="char:EOLhyphen"/>taine a whole Family Nobly: and to ſuffer
+their Brothers &amp; Siſters to <hi>ſhift,</hi> which as theſe Times
+ſhape, is often-times to liue either <hi>lewdly,</hi> or moſt
+<hi>miſerably:</hi>
+                  <note n="*" place="margin">Strenue eſurire.</note> being
+forced either to forget their good Education, or to lay aſide all Badges of
+Gentry; who otherwiſe with ſome <hi>reaſonable helpes,</hi> might doe
+God, their Country, and Fa<g ref="char:EOLhyphen"/>mily much Honour.</q>
+            </p>
+            <p>Since we haue gone ſo farre, let vs ſee, on what Ground this
+Cuſtome firſt hath riſen. Surely for the maintenance of a Family, yet led
+with an Am<g ref="char:EOLhyphen"/>bitio<g ref="char:cmbAbbrStroke">̄</g> at the Example of Princes, who finding ſome difficulties in
+the admitting of many to a Gouern<g ref="char:EOLhyphen"/>ment, and feeling what Inconveniences the
+parting of an Eſtate, brought; deviſed that One ſhould go<g ref="char:EOLhyphen"/>verne:
+ſometime the Worthieſt, ſometime the El<g ref="char:EOLhyphen"/>deſt was Elected, according as
+the Order was a<g ref="char:EOLhyphen"/>greed vpon, and yet the other Brothers were main<g ref="char:EOLhyphen"/>tained like
+Princes. And this Cuſtome alſo among them hath beene broken, without
+Imputation of ſinne: For to goe no further then our late Times: 'tis well
+knowne, that <hi>Ferdinand (Charles</hi> the fift his Brother) being ſetled
+in the Empire, divided his Eſtate. To <hi>Maximilian</hi> his Eldeſt
+ſonne, he left the Empire, with <hi>Austria, Hungary,</hi> and
+<hi>Bohemia.</hi> To <hi>Charles</hi> his ſecond ſonne, <hi>Stiria,
+Carinthia,</hi> and o<g ref="char:EOLhyphen"/>ther Dominions. And to <hi>Ferdinand</hi> the youngeſt,
+<pb n="31" facs="tcp:94219:21"/> he gaue the Earledome of <hi>Tyroll.</hi> All which, if in
+his life-time hee had not diſpoſed, had come to the Eldeſt. Alſo
+<hi>Philip</hi> the ſecond, late King of <hi>Spaine,</hi> gaue to his
+Daughter the 17 Provinces, which were <hi>of Right</hi> to haue deſcended to
+his ſonne after his Death, if otherwiſe he had not diſpoſed in his
+life. And this was adjudged lawfull by Graue Divines, otherwiſe ſurely they
+would never haue done it.</p>
+            <p>But doth this Cuſtome in meaner Degrees work that Effect which
+it hath done in them? No truly. For as we haue proued, it is rather the
+Overthrow then the Preſervation of many Families. Let vs ſee withall,
+whether Families flouriſhed not as much, and more then now they doe, before
+this Cuſtome was receaued.</p>
+            <p>
+               <hi>Livy</hi> ſaith, that three hundred of the
+<hi>Fabij,</hi>
+               <note place="margin">Vna dies Fa<g ref="char:EOLhyphen"/>bios ad bellum miſerat omnes
+<hi>Ovid. Faſt.</hi>
+               </note> all of one Name and Family, iſſued out of
+<hi>Rome</hi> Gates at one time, on their owne Coſt, for Defenſe of their
+City: which was done, before this Cuſtome was dream'd of.</p>
+            <p>In Scotland three hundred of the Name and Fa<g ref="char:EOLhyphen"/>mily of
+<hi>Fraſers,</hi> Gentlemen, were at one Time ſlaine in Fight by their
+Enemies Neighbours: and 140 Gentlemen of one Name in Yorkſhiere, wai<g ref="char:EOLhyphen"/>ted on
+their chiefe or principal Man of their Houſe, at that time High Sheriffe. In
+other Countries, ma<g ref="char:EOLhyphen"/>ny Noble Families from the Romans downeward, haue continued
+where this Cuſtome hath beene deemed vnjuſt, as by their Laws is
+manifeſt: wher<g ref="char:EOLhyphen"/>as in our Country, in theſe our Times, if there bee one
+Family in a Shire, which is of three hundred <pb n="32" facs="tcp:94219:22"/> yeares
+continuance, very many others are ſcarſe of fiue Deſcents in a Blood.</p>
+            <p>Why ſhould our Age then, ſeeing the Fruit of this Cuſtome to
+be ſo ſmall, embrace it with ſuch Zeale as to deeme the Breach thereof,
+being war<g ref="char:EOLhyphen"/>ranted for Good and Iuſt by the Law of God, Na<g ref="char:EOLhyphen"/>ture, and Man, to be
+a ſinne? Is it held both lawfull and expedient (in ſome Countries) for the
+preſer<g ref="char:EOLhyphen"/>vation of a Family, that Degrees of Kindred ſhould be diſpenſed
+with to marry, contrary to Eccleſiaſti<g ref="char:EOLhyphen"/>call Canons and the Generall
+Practiſe: and can it be lawfull before God and Man, for the preſervati<g ref="char:EOLhyphen"/>on
+of our Goods, to venture our Liues, and to kill a Theefe, who ſhall
+aſſault vs, and that perhaps for a Trifle; and yet that for preſervation
+of our whole Eſtate, and perpetuity of a Family, it ſhall bee repu<g ref="char:EOLhyphen"/>ted
+ſinne, to breake a bare Cuſtome, vnder no Pe<g ref="char:EOLhyphen"/>nalty Obligatory, yea alwaies
+allowed by Law? Never was it heard, that a Cuſtome<note n="*" place="margin">Cuſtomes a<g ref="char:EOLhyphen"/>gainſt Lawes, are void by the Civill Law.</note>
+was of ſuch force, to abrogate a Law ſo farre, that it ſhould bee deem'd
+a ſinne to follow the ſaid Law, though it haue Power to diſpenſe with
+the Law, which other<g ref="char:EOLhyphen"/>wiſe to infringe, were ſinne: eſpecially when as the
+the Law is both more pious and more naturall then the Cuſtome is. For how
+farre is it from the Law of Nature, and from the Practiſe of Paternall
+Pie<g ref="char:EOLhyphen"/>ty, the Father dying inteſtate, the Eldeſt ſonne to become Lord
+Paramount of all his Fathers Lands, &amp; not to be bound by Law to provide for
+Brother or Siſter, but at his owne good liking? <hi>Aliud Tem<g ref="char:EOLhyphen"/>pus, alios
+mores postulat.</hi> Men of Vertue, Men of <pb n="33" facs="tcp:94219:22"/> Learning &amp;
+Vertue, both now and in former Ages, in this our Countrey, haue brok this
+Cuſtome,<note n="*" place="margin">This Cu<g ref="char:EOLhyphen"/>ſtome is con<g ref="char:EOLhyphen"/>trary to the
+iudgement &amp; practiſe of the Primitiue Church: as is cleare in
+<hi>Sal<g ref="char:EOLhyphen"/>vianus;</hi> who intimateth, that <hi>aequa haereditatis portio</hi>
+was vſually left by Chriſtian Parents to their Children, and that to doe
+otherwiſe, were <hi>Groſſe Iniquity: Ad Eccleſ. Cath: pag:</hi> 422.
+425. <hi>Edit: Oxon: Floruit: Ao</hi> 480.</note> as the World knows, vpon
+good Conſideration, &amp; juſt Cauſes; not vpon ſpleene, or falſe
+ſuppoſitions perſuaded to leaue their Fortunes to Strangers, or to a
+luſtfull Iſſue, as ſome haue done.</p>
+         </div>
+         <div n="7" type="chapter">
+            <head>
+               <hi>CHAP. 7.</hi> 
+            </head>
+            <argument>
+               <p>That Fathers being Tenents in Fee-taile, may like<g ref="char:EOLhyphen"/>wiſe without
+ſcruple of Conſcience, diſcontinue the State-taile vpon cauſe; and
+deviſe the ſame at their reaſonable pleaſure.</p>
+            </argument>
+            <p>
+               <seg rend="decorInit">H</seg>Aving treated largely, and (as I pre<g ref="char:EOLhyphen"/>ſume) proued
+ſufficiently, that Lands held in Fee-ſimple, may either bee parted, or vpon
+juſt Cauſe wholly gi<g ref="char:EOLhyphen"/>ven away to a younger Sonne: I in<g ref="char:EOLhyphen"/>tend now to ſpeake
+of the lawfull Freedome of a Father in like ſort, and on the ſame cauſes,
+moued to diſpoſe of his Lands entailed: of which there ſeemes more Doubt
+then of the former.</p>
+            <p>Every humane Act, which of it ſelfe is not for<g ref="char:EOLhyphen"/>bidden by the Law
+of God or Nature, is to bee judged Good or Evill, Lawfull or Vnlawfull, ei<g ref="char:EOLhyphen"/>ther
+by the Lawes of the place where the Act is done, or by Intention of him who
+ſhall doe the Act. For as the Divine Law co<g ref="char:cmbAbbrStroke">̄</g>mands ſomethings 
+<pb n="34" facs="tcp:94219:23"/> to be done, and other things to bee avoided, vnder paine
+of ſinne: ſo the third ſort of Actions are left free (by the ſaid
+Authority) from ſinne; except the Law of Man prohibite the<g ref="char:cmbAbbrStroke">̄</g>, &amp; ſo make
+them ſin: or elſe evill Intention make them (being of themſelues lawfull)
+to be a ſinne, and vnlawfull; according to that Principle of Morall
+Philoſophy, <hi>Finis ſpecifi<g ref="char:EOLhyphen"/>cat a<g ref="char:cmbAbbrStroke">̄</g>ctum.</hi> For as an Act of it ſelfe
+lawfull, done a<g ref="char:EOLhyphen"/>gainſt Law is Sinne: ſo a good Act commanded by Law, yet
+done with an evill intention, may be ſinne.</p>
+            <p>From theſe Grounds, let vs ſee, whether the Common Law of our
+Country, and the Intention of a Father (which are to bee the Iudges of our
+Cauſe) can allow the cutting off an Entaile, the par<g ref="char:EOLhyphen"/>ting of an Inheritance,
+or (vpon proportionable cauſe) the diſinheriting of a Son. Firſt it is
+cleere, that the Act, of it ſelfe, by Law may be done: But whether ſuch an
+Act bee <hi>ſummum Ius,</hi> which may be <hi>ſumma injuria,</hi> that is
+the Doubt. What ſhall be the Triall? By other Lawes, it is either made
+lawfull, or left indifferent. Our Law which makes this Tye, giues leaue to
+vndoe it without a<g ref="char:EOLhyphen"/>ny exception. <hi>Ergo,</hi> to a good End, and vpon juſt
+Cauſe, it may be done. It will bee replied, that the Eldeſt ſonne, during
+this Entaile, is <hi>quaſi Dominus:</hi> Yet, hauing neither <hi>Dominium
+directum,</hi> nor <hi>indire<g ref="char:EOLhyphen"/>ctum,</hi> he, during his Fathers life, hath
+onely <hi>Ius ad Rem,</hi> and not <hi>in Re:</hi> Whereby no change is
+forbid<g ref="char:EOLhyphen"/>den to be made by the Father, according to the Forme of the Law vnder
+which he liueth, and by which, the ſonne is to make claime, if the Father 
+<pb n="35" facs="tcp:94219:23"/> create no new Eſtate in his life. For it is lawfull for
+every Man to diſpoſe of his Owne, as far as the Law ſhall permit him, if
+it bee not forbidden by ſome other Law: but ſuch an Act is not forbidden by
+any other Law, <hi>Ergo</hi> 'tis lawfull, and no ſinne.</p>
+            <p>But it may bee ſaid, that the Intention of him who entaild the
+Land, was, that it ſhould not be vn<g ref="char:EOLhyphen"/>tied, or the ſtate changed. I anſwer:
+No Act done by law, can be free from Change, further or longer, then the Law
+that made it a binding Act, ſhall al<g ref="char:EOLhyphen"/>low. And it is well knowne to the
+learned in our Lawes, that every Mans Intention is to be conſtru<g ref="char:EOLhyphen"/>ed according
+to Law, by which, his Act and Inten<g ref="char:EOLhyphen"/>tions are directed. Wherevpon,
+<hi>Civilians</hi> ſay in like Caſes, <hi>Valeat quantum valere
+poteſt.</hi> Neither is it thought, that any man who convaieth his Lands by
+Entaile, can intend an Act beyond Law, or de<g ref="char:EOLhyphen"/>ſire that his ſonne whom he
+makes Tenent entaile (as our Lawyers terme him) ſhall in no Caſe, no not
+for the preſervation of his Family, or Releefe of many other of his Children,
+haue power to cut of this Entaile, and to be able to alien, ſell, or giue his
+Lands, as Reaſon, Law, and Religion ſhall per<g ref="char:EOLhyphen"/>mit. For it may be judged,
+that hee who doth an Act to a good End, as namely to preſerue his Fa<g ref="char:EOLhyphen"/>mily,
+will alwaies aſſent to another Act, which ſhall with better aſſurance
+then his owne, ſtrengthen his Intendment.</p>
+            <p>To the former Conſiderations wee may adde, what Inconveniences
+may follow this Generall Poſition. For if in conſcience the whole
+Inheri<g ref="char:EOLhyphen"/>tance <pb n="36" facs="tcp:94219:24"/> of the Father, is to come without controle to
+the Eldeſt ſonne, then muſt it of neceſſity bee infer<g ref="char:EOLhyphen"/>red, that the
+Father, without his Conſent,<note n="*" place="margin">Agens per medium, eſt
+minus efficax in agendo.</note> cannot giue to pious<note n="*" place="margin">Da
+quae no<g ref="char:cmbAbbrStroke">̄</g> potes retinere, vt conſequaris ca quae non potes amitte<g ref="char:EOLhyphen"/>re.</note>
+Vſes, or ſet out for the Advanceme<g ref="char:cmbAbbrStroke">̄</g>t of his other Children any thing after
+his Death. So that if God ſhould bleſſe a Father with many chil<g ref="char:EOLhyphen"/>dren, and
+croſſe him with as many Misfortunes; his other Children, and all other his
+charitable Intenti<g ref="char:EOLhyphen"/>ons ſhould be provided for only at his Sonne's or Heire's
+curteſy. Which how<note n="*" place="margin">Pediſſequa enim plerum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan>
+novi honoris, eſt Arrogan<g ref="char:EOLhyphen"/>tia <hi>Salv. Ep. 2.</hi>
+               </note> abſurd it is,
+all men know. For herevpon all Donations to pious Vſes, and to younger
+Brothers for their preferment, may be called in Queſtion.</p>
+            <p>It is an ordinary thing in theſe our Times, when the Land is
+left to the Heire Generall, to alter the Eſtate, if the Land ſo co<g ref="char:cmbAbbrStroke">̄</g>vaied
+ſhal come to Daugh<g ref="char:EOLhyphen"/>ters, and to leaue it to a Brothers<note n="†" place="margin">Hebrewes call a Male-Child <hi>Zacar,</hi> a memoriall: becauſe
+the Fathers me<g ref="char:EOLhyphen"/>mory is pre<g ref="char:EOLhyphen"/>ſeru'd in the Sonne, See 2. Sam. 18.18</note>
+Sonne, or ſome other of the ſame Name (though peradventure many Degrees
+remoued) for preſervation of the Name and Family. If this may bee deemed
+lawfull, and no ſinne, being done againſt a well deſeruing Child, for
+whom, Nature and her Deſerts plead her worthy to be her Fathers Heire: then
+without all compare, if the preſervation of a Name and Fa<g ref="char:EOLhyphen"/>mily, may juſtly
+be labour'd for, according to Pow<g ref="char:EOLhyphen"/>er giuen by Law of God and Man; the ſame
+may be lawfully acted, againſt a debauched Heire, who in any reaſonable
+Mans Iudgement, is likely in his ſhrowd to bury the Memory of all his
+Anceſtors Vertues, which ſhould liue in him, and his Proge<g ref="char:EOLhyphen"/>ny, as his
+Progenitors did in theirs.</p>
+            <p>
+               <pb n="37" facs="tcp:94219:24"/>It is neither new, nor ſtrange, in the
+Practiſe of our Times, in Cauſes of this Nature, to overthrow intended
+Perpetuities, and by Act of Parliament to giue leaue vpon ſome good
+conſiderations to ſell lands, which otherwiſe by no Lawes can bee ſold
+from the Heire, the Father being but Tenent onely for terme of life. Which
+ſurely by no Power vn<g ref="char:EOLhyphen"/>der God could be done, were the Thing in it ſelfe,
+vnlawfull and ſinne; for<note n="*" place="margin">See Salvian ad Ecc. Cath. l.
+4.</note> 
+               <hi>Omne peccatum eſt Divi<g ref="char:EOLhyphen"/>nitatis injuria:</hi> Whence may bee
+argued <hi>à Fortiori;</hi> If power may be giuen to a Father being
+Tenent for Terme of life, to ſell his Sonnes lands, only to pay his owne
+Debts (peradventure idly made) though it be to the Overthrow, or extreame
+Diminution of his Family; becauſe Naturall Equity doth will, that every one
+ſhould be relieued with his Owne, (for ſo it may bee deemed, though in loue
+to his Child he hath paſſed the Eſtate, yet ought hee to be therewith
+preſerued from Thraldome in his Ne<g ref="char:EOLhyphen"/>ceſſity:) Which if it be ſo, (as
+confeſſedly it is) how reaſonable a thing, yea how commendable, and
+<hi>far</hi>
+               <note n="†" place="margin">
+                  <hi>So</hi> Salvia<g ref="char:EOLhyphen"/>nus: Non
+iniu<g ref="char:EOLhyphen"/>ſtè teſtator ſa<g ref="char:EOLhyphen"/>piens non re<g ref="char:EOLhyphen"/>linquit, quod haeres impius non
+meretur. <hi>Ad Ecc. Cath. l. 3.</hi>
+               </note> 
+               <hi>from ſinne</hi> is it, for a
+Father truely Lord of his owne, without all Tie of Law, Divine, or Humane (as I
+haue proued) to diſpoſe his Lands, to the Honour of God and Comfort of his
+Family, to a Younger Sonne, <hi>when in all probability, the Elder will neither
+vſe it to the One nor the Other, but ra<g ref="char:EOLhyphen"/>ther, to wallow in Riot and
+Senſuality.</hi>
+            </p>
+         </div>
+         <div n="8" type="chapter">
+            <pb n="38" facs="tcp:94219:25"/>
+            <head>
+               <hi>CHAP. 8.</hi> 
+            </head>
+            <argument>
+               <p>That Vnthriftineſſe is one knowne name of many hid<g ref="char:EOLhyphen"/>den
+ſinnes; and is alone a ſufficient cauſe of diſin<g ref="char:EOLhyphen"/>heriſon; proved by
+the Law of God and Man.</p>
+            </argument>
+            <p>
+               <seg rend="decorInit">H</seg>Auing vpon good Conſideration en<g ref="char:EOLhyphen"/>larged my ſelfe beyond my
+firſt in<g ref="char:EOLhyphen"/>tention, I haue reſolu'd, vnder my Readers Favour, &amp; on the
+precedent Principles, to Argue one Queſtion more, for the accompliſhment of
+this Diſcourſe: viz: <hi>Whether a Father may diſinherit his Eldeſt Son
+or Heire at Common Law, for ſuch an Vnthriftineſſe, as in most
+mens</hi>
+               <note n="*" place="margin">
+                  <hi>Viz:</hi> Groun<g ref="char:EOLhyphen"/>ded on the con<g ref="char:EOLhyphen"/>currence
+of great and vi<g ref="char:EOLhyphen"/>olent Preſum<g ref="char:EOLhyphen"/>ptions.</note> 
+               <hi>Iudgements, is like to bee
+the Ruine of his Family?</hi>
+            </p>
+            <p>Though many foule ſinnes, beſides the Abuſe of Gods
+Bleſſings, bee concomitant to vnthriftineſſe, yet becauſe they are
+not apparent to the World <hi>(&amp; de abſconditis non judicat Praetor)</hi>
+I will briefly ar<g ref="char:EOLhyphen"/>gue, Whether in Reaſon, or Conſcience, <hi>a deſperate
+Vnthrift</hi> may be diſinherited.</p>
+            <p>It is well knowne to all the Wiſe &amp; Temperate, whoſe
+Iudgements Paſſion doth not ouer-ſway, how great an Enemy Prodigality or
+Vnthriftineſſe is to all manner of Goodneſſe: and how cunningly ſhe
+not only hinders the Increaſe of all Vertues in thoſe in whom ſhe
+raignes: but alſo vnjuſtly oft<g ref="char:EOLhyphen"/>times cuts off the vertuous reward of many a
+wor<g ref="char:EOLhyphen"/>thy Predeceſſour; yea, giues occaſion to the Evill to detract, to the
+Good to ſuſpect their Deſerts. All <pb n="39" facs="tcp:94219:25"/> which, how great
+a Wrong it is to a Noble Fami<g ref="char:EOLhyphen"/>ly, I leaue to the indifferent Reader to
+cenſure. I will not deny but there may bee many ſinnes in a Man, which in
+the ſight of God, and iudgement of Men, of themſelues are more haynous, and
+deſerue a farre greater Damnation then Prodigality doth:<note place="margin">Thoſe ſinnes more puniſha<g ref="char:EOLhyphen"/>ble, which are more offenſiue to
+common So<g ref="char:EOLhyphen"/>ciety; though leſſe heinous in their par<gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>u<g ref="char:EOLhyphen"/>lar nature.</note> yet are ſinnes in this World to
+bee puniſht, not as they are in themſelues, but as by Circu<g ref="char:cmbAbbrStroke">̄</g>ſtances they
+are offenſiue to the Society, Peace, and Honour of Man-kind, which God and
+Nature, ever as the Re<g ref="char:EOLhyphen"/>ward to all Morall Vertues, and as the cheefe End of
+Mans Life, intended. For otherwiſe, Vſury, De<g ref="char:EOLhyphen"/>traction, Forgery, Adultery,
+Fornication, Swearing and Drunkenneſſe, with many more, which are as
+greevous offences in the Eye of Heaven as Theft, ſhould be puniſht with
+Death, as Theft is. But ſince they offend not ſo much the Peace of a
+publike Weale (at which the Civill Magiſtrate aymes) as Theft doth; they are
+not cenſur'd with ſuch ſeuere Puniſhment as it is. All which ſhewes
+directly, that Offences by Circumſtance are made in a Civill Society
+againſt which they are committed, either greater or leſſer; and are
+accordingly to be puniſht: and no leſſe doth the Reaſon &amp; right
+Rule of State command.</p>
+            <p>Out of which Grounds it is evident, that all Formes of Goverment
+doe moſt puniſh that Offen<g ref="char:EOLhyphen"/>der, who directly or indirectly ſeekes to
+diſturbe the Peace, or overthrow the Liberty, or diſgrace the Dignity of
+the State where he liues: yet many greater Offences then theſe may be
+committed, as <pb n="40" facs="tcp:94219:26"/> Inceſt, and Apoſtaſy, which are not
+ſo ſharply pu<g ref="char:EOLhyphen"/>niſht by the Civill Magiſtrate. For every one to whom God
+hath giuen power on Earth, doth chief<g ref="char:EOLhyphen"/>ly ſeeke the End, for which his Power
+from aboue, is giuen to him; and doth cenſure and puniſh in the higheſt
+Degree, thoſe Offenſes, which tend to the Overthrow of a well-ſetled
+State, by good &amp; law<g ref="char:EOLhyphen"/>full Power confirmed.</p>
+            <p>Now to deſcend from theſe Premiſſes to the Point in
+Controverſy, and to apply what hath been ſaid, to our purpoſe. It is well
+knowne to the World, that a Family is a Civill Society, yea the only
+Common-Weale which God &amp; Nature firſt ordained; from which, all
+Societies, Republikes, &amp; <hi>Species</hi> of Regiment tooke their
+Originall. For the maintenance of which Society, there is no Queſti<g ref="char:EOLhyphen"/>on, but
+God hath giuen many<note n="*" place="margin">Fathers of Families had power to
+bleſſe, curſe, <hi>diſinherit</hi> and puniſh with <hi>death;</hi> as
+ap<g ref="char:EOLhyphen"/>peares by the Examples of of <hi>Noë</hi> to<g ref="char:EOLhyphen"/>wards <hi>Cham,
+Abraham</hi> to<g ref="char:EOLhyphen"/>wards <hi>Hagar</hi> and <hi>Iſmael, Iacob</hi> towards
+<hi>Simeon <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Le<g ref="char:EOLhyphen"/>vi,</hi> and of
+<hi>Iu<g ref="char:EOLhyphen"/>da</hi> towards <hi>Thamar.</hi> Gen. 38.24. See Mr. <hi>God<g ref="char:EOLhyphen"/>win, vbi
+ſupra</hi>
+               </note> Privileges to a Fa<g ref="char:EOLhyphen"/>ther, as well to reward the
+well-deſeruing, as to pu<g ref="char:EOLhyphen"/>niſh an evill child or member of his Body: not
+only by depriuing them of their expected Fortunes; but by cutting them off from
+his Body, either by Abdi<g ref="char:EOLhyphen"/>cation or Exile, or Death it ſelfe. For it is cleere
+by the Civll Law, that a Father had for many yeares, not only free Power to
+diſinherit, but alſo Power of Life and Death over his Children, who
+ſhould greivouſly offend him or his, liuing vnder his Ci<g ref="char:EOLhyphen"/>vill Government.
+But ſince that Things vnknowne are growne out of Vſe, and may ſeeme as
+well in<g ref="char:EOLhyphen"/>credible, as ſtrange, I cannot in prudence paſſe ouer the Matter
+in Queſtion ſo lightly, as that it may bee worthily ſubiect to ſharp
+Cenſure, or raſhly bran<g ref="char:EOLhyphen"/>ded <pb n="41" facs="tcp:94219:26"/> with the Marke of
+Vntruth.</p>
+            <p>Therefore laying aſide the Teſtimony of the old
+<hi>Romane</hi> Lawes, in the caſe of a Fathers Soveraigne Power over the
+life of his child, given to him by the<note n="*" place="margin">Cap. 3. <hi>Dio.
+Halicar. l.</hi> 2. Antiq.</note> 
+               <hi>Twelue Tables,</hi> where it is written:
+<hi>Pater fami<g ref="char:EOLhyphen"/>liâs habeat jus vitae:</hi> yea, —<hi>ter<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan>
+filium venundandi poteſtatem;</hi> I will breefly and effectually proue out
+of the <hi>Sacred Text</hi> it ſelfe, what I affirme. There then it plainely
+appeares, that Fathers had Power among the Iewes, to cauſe their children for
+Riot, Diſorder, or Vnthriftineſſe, to be ſton'd to Death:
+<hi>Ergo,</hi> power to diſinherit: For the Greater ever in<g ref="char:EOLhyphen"/>cludes the
+Leſſe. Not to ſeeme to ſpeake without Booke, it ſhall not bee
+amiſſe to ſet downe <hi>Moſes</hi> words, which are as follow.</p>
+            <p>
+               <hi>If a Man haue a ſtubborne and rebellious ſonne, that will
+not obey the Command of his Father or Mother:</hi>
+               <note place="margin">Deut.
+21.18.</note> 
+               <hi>and being chaſtiſed, ſhall be vnreclaimable; they
+ſhall apprehend and bring him to the Seniors of that City, and to the place
+of Iuſtice: and they ſhall ſay to them: This our ſonne is incorrigible
+and diſobedient, con<g ref="char:EOLhyphen"/>temnes our Monitions, abandons himſelfe to riotous
+Exceſse, and is a Drunkard. The Citizens ſhall then overwhelme
+him</hi>
+               <note n="*" place="margin">
+                  <hi>Stoning</hi> was appointed a Death for
+<hi>Blaſphemy</hi> &amp; <hi>Idolatry:</hi> which (by co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>currence <hi>in
+this caſe</hi>) ar<g ref="char:EOLhyphen"/>gues how ex<g ref="char:EOLhyphen"/>ecrable a Crime <hi>Diſo<g ref="char:EOLhyphen"/>bedience to
+Parents</hi> is in Gods ſight.</note> 
+               <hi>with Stones, and he ſhall dye;
+that yee may take Evill from among you, and that all Iſra<g ref="char:EOLhyphen"/>el hearing it, may
+feare.</hi>
+            </p>
+            <p>Whence we may collect, how odious a Crime Vnthriftineſſe was
+among the People of God; and what ample Power the Father had to puniſh the
+ſame in his Child. For if we obſerue well the Man<g ref="char:EOLhyphen"/>ner of the Proceſſe
+betweene the Father and the <pb n="42" facs="tcp:94219:27"/> Child, in this Caſe, wee
+ſhall finde that the Father was Accuſer, Witneſſe, and as it were Iudge
+of his owne Cauſe. For we read not that the <hi>Senators</hi> of the City did
+giue ſentence, or further examined the Proofes of the Fathers Accuſation:
+but their Preſence giuing as it were Allowance to a Fathers Power, and
+Intention to puniſh his Sonne, the Peo<g ref="char:EOLhyphen"/>ple might without more Enquiry,
+ſtone to Death ſo evill a deſeruing Child. Which being well
+con<g ref="char:EOLhyphen"/>ſider'd, my Hope is, that it will never hereafter ſeeme vnlawfull,
+though ſomewhat ſtrange, that a Father ſhould diſinherit his Eldeſt,
+or any other ſonne of his, for the Cauſe only of Unthriftines.</p>
+            <p>And although the World of Men is growne to that Greatneſſe,
+that it is neceſſary, One Generall Father, or Politike Head ſhould be in
+a Kingdome, or State, which may juſtly abridge ſome of theſe Privileges,
+and abate a Fathers Power (all Fathers being Children to the Father of their
+Countrey, their Lord and King, vnder God) yet the Power to advance and
+maintaine a Family by good and law<g ref="char:EOLhyphen"/>full Meanes, is ſtill both allowable and
+commenda<g ref="char:EOLhyphen"/>ble in a Parent; who may from time to time re<g ref="char:EOLhyphen"/>ward according to
+diſtributiue Iuſtice, all thoſe which liue vnder him, by leauing his
+Fortunes to them, as in Iuſtice they ſhall deſerue, and Law ſhall
+allow. So that, there is no Queſtion, but hee may ſtill diſinherit,
+according to the power of that Law vnder which he liues. For no other Ty is
+ouer him: God and Nature<note n="*" place="margin">The Law <hi>of Nature,</hi> or
+(as Civilians ſtile <hi>A) of Nations</hi> [on which a Fathers Ple<g ref="char:EOLhyphen"/>nary Power
+is founded] is by S <hi>Paul</hi> expreſly ter<g ref="char:EOLhyphen"/>med <hi>The Law of God.</hi>
+Rom. 1.31.</note> allowing that, at this day, &amp; for ever, which once they
+gaue vnto him. Which Au<g ref="char:EOLhyphen"/>thority <pb n="43" facs="tcp:94219:27"/> he not only may, but ought
+alſo to execute, as farre as the Law of Man ſhall permit: otherwiſe he
+ſhall erre in his Paternall Iuſtice.</p>
+            <p>For a Father is not only to beget and nouriſh his Children in
+his life, but by Natures law muſt pro<g ref="char:EOLhyphen"/>vide to his Power, that they liue both
+in his life &amp; after his death, to the honour of God, the ſervice of their
+Countrey, and comfort of their Family: which were the only Ends for which God
+created Man a Civill and rationall Creature. All which, if it ſhall
+aſſuredly bee thought by a Father, that any Child of his will wholly
+neglect, or rather execute the contrary; then no queſtio<g ref="char:cmbAbbrStroke">̄</g>, a Father is not
+bound to leaue him any more then ſhall honeſtly ſuffice the
+Neceſſities of Nature. For (as before is ſaid) no Man may giue or lend
+his Goods to any one, who will in all Mens Iudgements aſſuredly abuſe
+them.</p>
+            <p>But let vs ſee, whether a <hi>deſperate Vnthrift</hi> may be
+arraigned, and adjudged Guilty of theſe Accuſa<g ref="char:EOLhyphen"/>tions. Surely, it is cleere,
+that all vnthrifty<note n="*" place="margin">To play a<g ref="char:EOLhyphen"/>way our Prae<g ref="char:EOLhyphen"/>deceſſors
+la<g ref="char:EOLhyphen"/>bours; is a greater diſho<g ref="char:EOLhyphen"/>nour, then to piſſe on our parents a<g ref="char:EOLhyphen"/>ſhes
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> raze their monu<g ref="char:EOLhyphen"/>ments.
+<hi>Carp. Achitoph. p. 3.</hi>
+               </note> cour<g ref="char:EOLhyphen"/>ſes are diſpleaſing to God,
+and contrary to to his Honour. And how can hee bee able to ſerue his Country,
+who in ſhort time will not bee able to ſerue himſelfe with
+Neceſſaries wherewith to liue, but muſt of force bee maintained like a
+Drone in a Common Wealth, out of others Labours. As for his Family, what
+greater Diſcomfort can it haue then an abſolute Overthrow? Whereby, the
+No<g ref="char:EOLhyphen"/>ble Acts and Honour gotten to it by vertuous Pre<g ref="char:EOLhyphen"/>deceſſors, are buried
+in Oblivion; and the preſent &amp; future Hopes of all worldly and lawfull
+Honours <pb n="44" facs="tcp:94219:28"/> (Vertues temporall Reward) are quite taken away.
+And ſhall not ALL THIS deſerue Diſinheriſon? Can there bee a greater
+ſinne committed againſt the Honour and Eſſence of a Family, as it is a
+Fa<g ref="char:EOLhyphen"/>mily,<note place="margin">The life and ſoule of a Fa<g ref="char:EOLhyphen"/>mily.</note> then to be
+ſpoil'd of its Honour, and Life it ſelfe?
+<q> For in theſe our Times, well gotten Goods, and vſed as they
+ought, are the onely Soule, by which a Family, and all the vertuous Acts which
+it hath done, may liue.</q>
+            </p>
+            <p>Since therefore ſo great a miſchiefe is ſought &amp; aim'd
+at in this ſinne, ſurely according to the pro<g ref="char:EOLhyphen"/>portion of diſtributiue
+Iuſtice, the greateſt puniſh<g ref="char:EOLhyphen"/>ment is in Equity due to the ſame,
+according to the reaſon of the Precept, <hi>Ius ſummum vnicui<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan>
+tribue<g ref="char:EOLhyphen"/>re.</hi> Nature teacheth the ſilly Bees in their Com<g ref="char:EOLhyphen"/>mon Wealth to doe
+to death their <hi>Drones,</hi> who liue of others Labours: and ſhall it bee
+thought vnlaw<g ref="char:EOLhyphen"/>full for a Father, ſo to puniſh an incorrigible Un<g ref="char:EOLhyphen"/>thrift,
+who will not only liue of others Labours, but alſo ſubvert the honourable
+Endeavours of his Noble Anceſtors?</p>
+            <p>Thus if Sonnes may be deemed, and doomed by the offended, hauing
+power to doe both, according as the Offence done againſt them ſhall (by
+circum<g ref="char:EOLhyphen"/>ſtance) be of Quality (as we haue proued they may and ought) then
+certainely it is lawfull for a Fa<g ref="char:EOLhyphen"/>ther ſo to doe, as I haue formerly
+demonſtrated.</p>
+            <p>But becauſe Examples in all Controverſies of Fact, are the
+beſt Fortifications; I will, in illuſtration of the Premiſſes, adde
+ſome few to the former, drawne as well from Royall Precedents (by whoſe 
+<pb n="45" facs="tcp:94219:28"/> Patternes —<hi>totus componitur Orbis</hi>) as from
+inferi<g ref="char:EOLhyphen"/>our Perſons, whoſe Qualities beſt fit the condition of our
+preſent ſubject. And if Kingdomes &amp; Com<g ref="char:EOLhyphen"/>mon Weales haue fauour'd it,
+then certainely, by all Arguments <hi>à majori ad minus,</hi> it may
+much ra<g ref="char:EOLhyphen"/>ther be done, and ought to bee ſuffered in private Families.</p>
+         </div>
+         <div n="9" type="chapter">
+            <head>
+               <hi>CHAP. 9.</hi> 
+            </head>
+            <argument>
+               <p>The main points of the Premiſes exemplified in diuers
+particular Facts, as well of Princes, as of private Perſons.</p>
+            </argument>
+            <p>
+               <seg rend="decorInit">I</seg>T is not fit perhaps to vrge the better Acceptance with God of
+<hi>Abels</hi> Of<g ref="char:EOLhyphen"/>fering aboue <hi>Cain's</hi> the Elder Bro<g ref="char:EOLhyphen"/>ther;<note place="margin">Temporis prae<g ref="char:EOLhyphen"/>lationem tulit improbitas: Dignitatis praerogativa<g ref="char:cmbAbbrStroke">̄</g>
+                  <hi>Virtus. Philo.</hi> de Caino &amp; Abele. <hi>Abel. Iaphet.</hi>
+               </note> but
+that Eſtate which <hi>Abel</hi> had in <hi>Adams</hi> Patrimony. Nor will I
+reinforce <hi>Iaphets</hi> ſhare in his Fathers Right to the whole World,
+though hee being the youngeſt Son of three, had <hi>Europe</hi> for his
+Inheritance, which in all Arts, and Vſes of Life, farre excells <hi>Africk,
+Aſia,</hi> and all the reſt of the Earth. Whereas, according to the
+pretenſes of thoſe cuſtomary challenges, <hi>Sem</hi> ſhould either
+haue had all, or beene Sove<g ref="char:EOLhyphen"/>raigne Lord of all, and <hi>Cham</hi> and
+<hi>Iaphet</hi> with their Poſterity, but Farmers, or Free-holders vnder
+him.</p>
+            <p>I will not alſo (as if there were penury of Re<g ref="char:EOLhyphen"/>ſemblances)
+produce againe <hi>Eſau's</hi> Diſinheriſon, though that<note n="*" place="margin">In this caſe God ſaid ex<g ref="char:EOLhyphen"/>preſly, <hi>The Elder ſhall
+ſerue the you<g ref="char:cmbAbbrStroke">̄</g>
+                     <g ref="char:EOLhyphen"/>ger.</hi> See Gen. 25.23. and Mal 1.3. (with the
+<hi>Ge<g ref="char:EOLhyphen"/>neva</hi> Note there.)</note> were enough for our preſent purpoſe. 
+<pb n="46" facs="tcp:94219:29"/> For, had it beene Sinne (which neither Scripture, nor
+<hi>Ioſephus</hi> in his Antiquities ſaith) the Mother could not haue
+procured it, God would not haue proſper'd it; nor <hi>Iacob</hi> himſelfe,
+being a good man, haue accepted it, nor <hi>Eſau</hi> (whoſe anger
+<hi>Iacob</hi> fea<g ref="char:EOLhyphen"/>red) haue left it vnrevenged. Neither is there in Scripture,
+nor in any written Law vnder Heaven, a<g ref="char:EOLhyphen"/>ny Command to reſtraine the Fathers
+Power, but rather the contrary. For ſuch is the Law of Na<g ref="char:EOLhyphen"/>ture, that they who
+are <hi>ex aequo</hi> one Mans Children, ſhould, if not <hi>ex aequo,</hi>
+yet not <hi>ex iniquo,</hi> bee proui<g ref="char:EOLhyphen"/>ded for.</p>
+            <p>Againſt which Partiality, the Imperiall Lawes admit ſo
+forcible a Remedy, vnder the Title of an <hi>inofficious Teſtament,</hi> as
+it ſhall inable the younger Child, to a certaine proportion of eſtate,
+whether the deceaſed Father would or no; if hee had no juſt reaſon for
+omiſſion, or diſavowment in his laſt Will.<note place="margin">Ruben. See
+Gen. 49.4. &amp; 1. Chro. 5.1. Ephraim.</note> The Example certainely of the
+ſame holy Patriark, <hi>Iacob,</hi> in depriving his eldeſt ſon
+<hi>Ruben</hi> of the dignity of Birth-right (for his enormous of<g ref="char:EOLhyphen"/>fence) and in
+preferring <hi>Ephraim</hi> before <hi>Manaſses,</hi> the younger ſonne
+before the Elder, being his Grand-children, againſt the ſet<note n="*" place="margin">Gen. 48.18.</note> Purpoſe of <hi>Ioſeph</hi> their Father,
+ſeemes vnanſwerable on behalfe of<note n="*" place="margin">
+                  <hi>Grandfa<g ref="char:EOLhyphen"/>thers</hi> are vſu<g ref="char:EOLhyphen"/>ally called <hi>Fa<g ref="char:EOLhyphen"/>thers</hi> in
+Scri<g ref="char:EOLhyphen"/>pture; ſpecial<g ref="char:EOLhyphen"/>ly in reſpect of ſuch as in<g ref="char:EOLhyphen"/>herit after them.</note>
+Parents Power for transferring, or diſtributing their Bleſſings. Of which
+it may be verified: <hi>Qui prior in Benedictione, eſt potior in
+Iure.</hi>
+            </p>
+            <p>Of <hi>Solomon</hi> I haue ſpoken before, who was not
+<hi>Davids</hi> Eldeſt, but <hi>Adonias,</hi> after <hi>Abſalon</hi> was
+ſlaine: as <hi>David</hi> himſelfe was not the Eldeſt ſonne 
+<pb n="47" facs="tcp:94219:29"/> of <hi>Ieſse</hi> his Father, but the yongeſt, and
+yet<note n="*" place="margin">See 1. Chro 28.4.</note> choſen by God (who
+ſees not as Man doth, for with him is no reſpect of Perſons) to gouerne
+<hi>Iſrael,</hi> though he was not ſet before his Brothers in the private
+Inhe<g ref="char:EOLhyphen"/>ritance of the Family. And in the Goſpell it is ap<g ref="char:EOLhyphen"/>parent by the Parable
+of the Workmen, who came at vnequall houres into the Vine-yard, and yet had
+equall Wages, that Firſt and Laſt are to him alike; who though he created
+Things in number, Weight, and Meaſure, yet hee ſquares not his Favours by
+priority of Being,<note n="*" place="margin">Witneſſe <hi>Iſmael</hi>
+diſin<g ref="char:EOLhyphen"/>herited, and <hi>Iſaak</hi> (the younger) pre<g ref="char:EOLhyphen"/>ferr'd <hi>by Gods
+Award.</hi> See Gen. 21.12. where ver. 10. &amp; 11. it is cleare, that
+<hi>Abraham</hi> had <hi>(otherwiſe)</hi> divided his in<g ref="char:EOLhyphen"/>heritance be<g ref="char:EOLhyphen"/>twixt
+them. <hi>[Can the World yeeld a better Prece<g ref="char:EOLhyphen"/>dent?]</hi> N.B.</note> but of
+well-deſeruing.</p>
+            <p>
+               <hi>Auguſtus Caeſar,</hi> the moſt Illuſtrious of all the
+firſt Emperours, ſetled the Imperiall ſucceſſion, not vpon his only
+Grand-child <hi>Agrippa Posthumus,</hi> the ſonne of his daughter and ſole
+Heire, the Lady <hi>Iu<g ref="char:EOLhyphen"/>lia,</hi> though <hi>Tacitus</hi> ſaith, he was
+<hi>nullius flagitij com<g ref="char:EOLhyphen"/>pertus</hi> (then what, if he had indeed beene a
+notori<g ref="char:EOLhyphen"/>ous Vnthrift?) but vpon <hi>Tiberius,</hi>
+               <note place="margin">Tiberius.</note> a ſtranger in Blood, and his ſonne by no
+other, but by a Civill Title of <hi>Adoption,</hi> becauſe he reputed him
+farre the fitter to governe.</p>
+            <p>
+               <hi>Choſroes</hi> King of <hi>Perſia,</hi>
+               <note place="margin">Medarſes.</note> made <hi>Medarſes</hi> his yon<g ref="char:EOLhyphen"/>ger ſonne,
+Conſort in his Empire, leauing out his Eldeſt <hi>Sinochius.</hi>
+            </p>
+            <p>But to omit forraine Examples (for Brevity ſake) wherewith (of
+all Times and Places) Books are full: In our Country we might alleage the Fact
+of <hi>Brutus,</hi> the Protoparent of our Nation,<note place="margin">Brutus.</note> who di<g ref="char:EOLhyphen"/>vided <hi>Albion</hi> (afterward call'd
+<hi>Britaine</hi>) to his three ſonnes, leauing only the beſt<note n="*" place="margin">England.</note> Portion to <hi>Locrinus,</hi> anciently called
+<hi>Loegria; Albania</hi> (now <hi>Scotland</hi>) <pb n="48" facs="tcp:94219:30"/> to
+<hi>Albanact;</hi> and <hi>Cambria,</hi> or <hi>Wales,</hi> to
+<hi>Camber.</hi>
+            </p>
+            <p>
+               <hi>Leir,</hi> long after, knewe he had ſo much Power in
+himſelfe as a Father, even againſt the Evidence of his owne Act of
+Partition, by the Originall Law of Nature; as for the Ingratitude of his owne
+Chil<g ref="char:EOLhyphen"/>dren,<note place="margin">Cordeilla.</note> to conferre the Kingdome wholly
+vpon his younger Child <hi>Cordeilla,</hi> in prejudice of his Grand-ſonnes,
+<hi>Morgan</hi> and <hi>Cunedage,</hi> borne of his Eldeſt daughters.</p>
+            <p>I know ſome will giue no credence to <hi>Brutus</hi> Story,
+which in this caſe they might with the more Reaſon doe, if the ancient
+Weale, or Britiſh Cu<g ref="char:EOLhyphen"/>ſtome, were not reſponſible in the Practiſe
+thereof, to that Act of <hi>Brutus.</hi>
+               <note place="margin">Roderik.</note> For,
+not only King <hi>Roderik</hi> divided his Kingdome of <hi>Wales</hi> to his
+three ſonnes, (according to that diſtinction of the Country into
+<hi>North-Wales, South-Wales,</hi> and <hi>Powisland</hi>) but O<g ref="char:EOLhyphen"/>thers ſince
+haue done the like among them.</p>
+            <p>As for <hi>Brutus</hi> Hiſtory, as it hath ſome Enemies, ſo
+alſo hath it many Friends, and thoſe of Eminent Worth and Eſteeme.
+<hi>Henry</hi> Archdeacon of <hi>Hun<g ref="char:EOLhyphen"/>tington, Matthew</hi> of
+<hi>Westminſter,</hi> &amp; others among the Ancient. Of latter Times,
+<hi>S<hi rend="sup">r</hi> Iohn Price, Willi<g ref="char:EOLhyphen"/>am Lambert, Humfrey Lloyd, D<hi rend="sup">r</hi> White</hi> of
+<hi>Baſing<g ref="char:EOLhyphen"/>ſtoke,</hi> Count <hi>Palatine</hi> in right of the Civill Law
+Chaire (an Honour due to the juſt Number of yeares by him paſſed) and
+innumerable others. A<g ref="char:EOLhyphen"/>boue all the reſt, <hi>Edward</hi> the firſt, King of
+<hi>England,</hi> with all the Earles and Barons of this Realme, by their
+Authentike Deed or Inſtrument, confirmed in Parliament. But to proceed.</p>
+            <p>
+               <pb n="49" facs="tcp:94219:30"/>They who knowe the old Faſhions of
+<hi>Ireland,</hi> either by Tradition, or by printed Statutes of that Nation,
+can teſtify of their moſt ancient Tenure, or Fundamentall Cuſtome, which
+there is called <hi>Ta<g ref="char:EOLhyphen"/>niſtry.</hi> By which,<note place="margin">Iriſh
+Taniſtry</note> the Land and Cheefty of a Name, after the Predeceſſors
+Death, is not awar<g ref="char:EOLhyphen"/>ded to the Eldeſt ſonne, but to the Worthieſt (if I
+miſ-remember not) the Iudgement whereof is left to the People, and ſuch
+Tenents as haue Intereſt &amp; Right of Suffrage: (as <hi>Alexander</hi> the
+Great, though as 'tis apparent in the <hi>Maccabees,</hi>
+               <note place="margin">1.
+Macc. 1.7.</note> very falſely is ſaid to haue left his Empire.) And the
+Cuſtome of e<g ref="char:EOLhyphen"/>quall ſhares may be in other places alſo, which ne<g ref="char:EOLhyphen"/>ver
+borrowed their equall Partitions from <hi>Gavel-kinde:</hi> A Cuſtome, I
+grant, which ſome haue lately alter'd in their private Families by
+Parliament.</p>
+            <p>To omit a Number of vnexceptionable Prece<g ref="char:EOLhyphen"/>dents and forraine
+Examples; If <hi>All</hi> muſt <hi>neceſsari<g ref="char:EOLhyphen"/>ly</hi> haue gone to
+<hi>One,</hi> how came it then to paſſe, that <hi>in this Kingdome,</hi>
+there were <hi>at one time,</hi> ſo many Great and Honourable Families of
+<hi>one Blood,</hi> diſ<g ref="char:EOLhyphen"/>joyn'd in their ſeats, and diſtinguiſhed in
+their Ar<g ref="char:EOLhyphen"/>mories, by different Arguments? Or, who is ſo meanely ſeene in our
+Antiquities and Stories, as not to knowe it was ſo? And that many renowned
+Houſes (to ſpeake as <hi>de magis notis) Plantagenets,</hi>
+               <note place="margin">Sundry great Families of one Blood at a Time.</note>
+               <hi>Mortimers, Beaufords, Beauchamps, Dela-Poles, Nevils, Graies,</hi> and the
+<hi>like,</hi> haue growne and flou<g ref="char:EOLhyphen"/>riſht out of one common common
+Anceſtor? It can never be refelled.</p>
+            <p>Of Diſinheriſons in Worthy Families, <hi>M<hi rend="sup">r</hi> 
+                  <pb n="50" facs="tcp:94219:31"/> William Camden Clarenceaux</hi> King of Armes (the
+ſingular Ornament of England) giues vs two Emi<g ref="char:EOLhyphen"/>nent Examples. (And who is he,
+that remembers not one or other, in his owne Knowledge, or Ac<g ref="char:EOLhyphen"/>quaintance?)</p>
+            <p>
+               <note place="margin">Carew<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>
+               <hi>Iane,</hi> Daughter of <hi>Hugh Courtney,</hi> and Heire
+to her Mother, wife of <hi>Nicolas</hi> Lord <hi>Carew,</hi> diſinheri<g ref="char:EOLhyphen"/>ted
+her Eldeſt ſonne <hi>Thomas, cùm minùs reveren<g ref="char:EOLhyphen"/>ter matrem
+haberet,</hi> for his irreverent Demeanour; and parted her Lands (which were
+goodly) among her three younger ſonnes: of whom are ſprung three ſeverall
+Worſhipfull Houſes of the <hi>Carewes;</hi> called <hi>Haccombe,
+Anthony,</hi> and <hi>Bury.</hi> So that God by the ſucceſſe crowned the
+Fact, and confirm'd the Lawfulneſſe of <hi>Partage.</hi>
+            </p>
+            <p>And this is the firſt of M<hi rend="sup">r</hi> 
+               <hi>Camdens</hi> Examples.</p>
+            <p>The other is this. <hi>Bryand Lyle,</hi> or <hi>Fitz-Earle,</hi>
+Lord of <hi>Abergevenny,</hi>
+               <note place="margin">Brientius de Inſula.</note>
+hauing two ſonnes, both Le<g ref="char:EOLhyphen"/>prous, built for them a <hi>LaZaretto</hi> or
+Spittall: and gaue to <hi>Miles</hi> Earle of <hi>Hereford</hi> farre the
+greateſt part of his Patrimony from his Children. The One of theſe Examples
+is in the Deſcription of <hi>Devon<g ref="char:EOLhyphen"/>ſhire;</hi> and this other in
+<hi>Monmouthſhire.</hi> And this may ſuffice for clearing the former
+Document (the ſubiect of this Whole Diſcourſe) by Exemplifica<g ref="char:EOLhyphen"/>tion.</p>
+         </div>
+         <div n="10" type="chapter">
+            <pb n="51" facs="tcp:94219:31"/>
+            <head>
+               <hi>CHAP. 10.</hi> 
+            </head>
+            <argument>
+               <p>That the Law of Naturall Equity &amp; Reaſon confirme iuſt
+Diſinheriſon: and that the riotous liues of El<g ref="char:EOLhyphen"/>der Brothers deſerue that
+vehement Increpation with which the Author cloſeth vp this Treatiſe.</p>
+            </argument>
+            <p>
+               <seg rend="decorInit">L</seg>ET vs now look into the Nature of Equity, and examine whether in
+Na<g ref="char:EOLhyphen"/>turall Reaſon (which is the Law of all Lawes) the Temperate ought to be
+ſubject to Intemperate: (I mean, within the Verge of private Families.)
+Fooles and Frantiks, to whom no Law imputes<note n="*" place="margin">
+                  <g ref="char:V">Ʋ</g>oluntas
+crimê non ha<g ref="char:EOLhyphen"/>bet, vbi furore peccatur. <hi>Salvian.</hi>
+               </note> Sinne,
+are not puniſht for Theft or Murther, or for any other Of<g ref="char:EOLhyphen"/>fenſe which they
+doe, being mad, or vnreaſonable. And though humanely they cannot offend; yet,
+in THIS SORT according to Equity, they may be puniſhed. The Reaſon is: All
+Law being grou<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>ded on Naturall Equity (otherwiſe it is no Law) doth not only
+puniſh Offenſes committed; but alſo prevents Offenſes which may be
+done, by rationall or irrationall Creatures. And ſince Fooles and Madmen
+cannot offend to be puniſht, or by puniſh<g ref="char:EOLhyphen"/>ment be reform'd; and yet they
+with whom they liue, ſhall inevitably be offended, if not overthrown by them
+hauing<note n="*" place="margin">Nothing more dange<g ref="char:EOLhyphen"/>rous then ar<g ref="char:EOLhyphen"/>med
+Madnes.</note> power, (as namely Brothers, Si<g ref="char:EOLhyphen"/>ſters, and their whole Family
+put in danger of ex<g ref="char:EOLhyphen"/>treame Miſery and Ruine) the Law according to all
+NATVRALL EQVITIE takes all Power from them.</p>
+            <p>
+               <pb n="52" facs="tcp:94219:32"/>I haue inſerted this clauſe <hi>[according
+to Naturall Equity]</hi> for, that it is againſt Nature, that Men ſhould be
+ſubject to Beaſts, or inſenſible Creatures. Whervpon
+<hi>Ariſtotle</hi> diſputing the Nature of Rule and Subjection, ſaith:
+that None are borne<note n="*" place="margin">Servitude proceeds not from the Law
+of Nature, but from Na<g ref="char:EOLhyphen"/>ture corrupted <hi>See Mr Dow<g ref="char:EOLhyphen"/>nings Diſ<g ref="char:EOLhyphen"/>courſe of
+the State Eccle<g ref="char:EOLhyphen"/>ſiaſt</hi> p. 68.</note> ſlaues, but ſuch as Nature
+hath abridged of the Vſe of Reaſon, who being truly ſlaues, are vtterly
+vnfit to gouerne. Upon which Ground, the ſame Great Philoſopher, prefers
+that Forme of Politie, where the Wiſeſt and Beſt are admitted to the
+Manage of State-Affaires: (as at this day is moſt conſpicuous, in the
+Bleſſed Raigne<note n="*" place="margin">Conſule <hi>Plauſus &amp;
+<g ref="char:V">Ʋ</g>ita</hi> Illuſtriſ<g ref="char:EOLhyphen"/>ſimi Equitis, D. <hi>Henrici Worton;</hi> Viti
+omnium lite<g ref="char:EOLhyphen"/>ratum, lingua<g ref="char:EOLhyphen"/>rum, ac Virtu<g ref="char:EOLhyphen"/>tum laude florentiſſimi.</note> and
+Regiment of our Moſt Gracious and Glorious SOVERAIGNE; whom God
+preſerue.)</p>
+            <p>But it may be ſaid, What is all this to our Pur<g ref="char:EOLhyphen"/>poſe? Yes:
+thus farre it may bee well applied: If Natures Intent to make all Man-kind,
+Reaſonable, according to their <hi>Species,</hi> being hindred by ſome
+inevitable Accident, ſhall ſo blemiſh and maime Thoſe, in whom ſuch
+Defect and Naturall Weak<g ref="char:EOLhyphen"/>neſſe ſhall be found that They (according to
+Di<g ref="char:EOLhyphen"/>vine and Humane Law) may and ought to bee de<g ref="char:EOLhyphen"/>priued of all Right and Claime
+to any Thing, (more, then to ſuſtaine Nature) and debarred from all
+Superiority and Seniority, which by Law or Cuſtome might otherwiſe haue
+falne on them; (be<g ref="char:EOLhyphen"/>cauſe, according to Naturall and Divine Equity, MAN ought
+not to bee gouern'd by BEASTS; ſuch as Idiots and Frantiks ſeeme to
+be:)</p>
+            <p>If This bee ſo, as according to Natures Rule it cannot bee
+otherwiſe, what puniſhment ſhall wee <pb n="53" facs="tcp:94219:32"/> thinke due to
+<hi>That Reaſonable Creature,</hi>
+               <note place="margin">
+                  <p>
+                     <hi>The Prodi<g ref="char:EOLhyphen"/>gals Chara<g ref="char:EOLhyphen"/>cter.</hi>
+                  </p> 
+                  <p>See more of this Subject, in that Reve<g ref="char:EOLhyphen"/>rend and Illu<g ref="char:EOLhyphen"/>ſtrious
+Au<g ref="char:EOLhyphen"/>thor <hi>Demo<g ref="char:EOLhyphen"/>critus Iunior.</hi> Part. 1. Sect. 2. Memb. 3. ſub<g ref="char:EOLhyphen"/>ſect.
+13.</p>
+               </note> borne in a Civill Society of Men, to whom Nature hath not beene
+a Step-dam in beſtowing her Bleſſings; and whoſe Name, and Family hath
+beene ennobled &amp; enriched by the Vertue and Induſtry of many Worthy
+Predeceſſors; who ſhall through Diſor<g ref="char:EOLhyphen"/>der, and inordinate Deſires,
+habituated in him by Cuſtome and Evill Converſation, become an
+<hi>Vn<g ref="char:EOLhyphen"/>reaſonable and vnmeaſurable ſinfull and ſhamefull Creature,</hi>
+a debauched<note n="*" place="margin">The Civill Law appoints Curators for
+Prodigals (as for Madmen) and Guardi<g ref="char:EOLhyphen"/>ans likewiſe of their E<g ref="char:EOLhyphen"/>ſtates: the
+Want where<g ref="char:EOLhyphen"/>of, is the Ru<g ref="char:EOLhyphen"/>ine of many great Houſes in England. <hi>See D.
+Ridley, vbi ſup. p.</hi> 268 <hi>where hee notes a Defect in our Lawes, which
+haue no proviſionall order therein.</hi>
+               </note> 
+               <hi>Bedlem,</hi> a wild
+<hi>American,</hi> a wilfull and moſt intolerable <hi>Madman,</hi> a Thing
+vn<g ref="char:EOLhyphen"/>worthy the Name of <hi>Man;</hi> a <hi>Prodigall</hi> ſhall I ſay, or a
+PRODIGIE? who contrary to all <hi>Rule, Law,</hi> or <hi>Order</hi> of the
+moſt <hi>Barbarous</hi> Society of Men, takes away (by his outragious
+Impiety) the <hi>Soule</hi> (as I ſaid before) of all his Anceſtors; who
+being <hi>dead,</hi> yet long might liue in their<note n="*" place="margin">
+                  <hi>Immortali<g ref="char:EOLhyphen"/>tatem ſpondet</hi> [Deus Abra<g ref="char:EOLhyphen"/>hae] <hi>cum Ge<g ref="char:EOLhyphen"/>nus
+promittit. Ambroſ.</hi> Ariotous heire a Civill Monſter.</note>
+               <hi>Poſterity:</hi> and conſumes the Womb of his Family
+<hi>(Viper-like)</hi> wherein he was borne: and without all Remem<g ref="char:EOLhyphen"/>brance of his
+obligement to the Dead (whom, as having his <hi>Being</hi> from them, he ought
+to <hi>honour</hi>) or Reſpect to the Living (to whom hee ſhould bee a
+<hi>Comfort</hi>) devoures in ſome ſort, them of his owne <hi>Species,</hi>
+Society, and Blood: All which, the <hi>Cani<g ref="char:EOLhyphen"/>bals</hi> doe not: For though they
+feed on their <hi>Species,</hi> which are Men like Themſelues; yet they hunt
+af<g ref="char:EOLhyphen"/>ter <hi>Strangers,</hi> and nouriſh themſelues with <hi>Others
+Fleſh,</hi> obſeruing ſtill ſome Lawe of Society a<g ref="char:EOLhyphen"/>mong Themſelues,
+which our CIVILL MON<g ref="char:EOLhyphen"/>STER doth not. For he, contrary to all Courſe of Nature,
+ſucks oftimes the Blood of his neareſt and <pb n="54" facs="tcp:94219:33"/> deareſt
+Friends: namely his <hi>Children, Brothers,</hi> and <hi>Siſters:</hi> yea,
+ſome of theſe <hi>furious Fiends</hi> haue brought their
+<hi>all-tender-hearted Parents</hi> to the Greateſt of all Woes, <hi>Beggery
+in their old Age.</hi> And all this, to maintaine by Force, or Fraud, <hi>a
+damned Crew</hi> of <hi>Roring Divels</hi> in the ſhapes of Men. Of eich of
+whom, we may ſay, dividually; 
+<q>
+                  <l>Tali Bacchus erat, tali Gargantua vultu;</l> 
+                  <l>Tale triplex<note n="*" place="margin">Of the Fa<g ref="char:EOLhyphen"/>mily of the
+Treble-chins.</note> mentum Pantagruelis erat.</l>
+               </q>
+               <q> 
+                  <l>
+                     <hi>So did old</hi> Bacchus, <hi>or</hi> Gargantua
+<hi>ſwell;</hi>
+                  </l> 
+                  <l>
+                     <hi>And ſuch a</hi> Bull-chin, <hi>was</hi>
+Pantagruell.</l>
+               </q> And of the whole Mad-cap. <hi>Fraternity</hi> (for they
+will needs be<note n="*" place="margin">
+                  <hi>Fratres in malo:</hi> or
+<hi>fra<g ref="char:EOLhyphen"/>terrimi</hi> (as was ſaid of <hi>Friers.</hi>)</note> 
+               <hi>Sworne
+Brothers</hi>) 
+<q>
+                  <l>
+                     <hi>Peſtis, quâ gelidum Boreae violentiùs
+Axem</hi>
+                  </l> 
+                  <l>
+                     <hi>Nulla vel infecit, nulla vel inficiet:</hi>
+                  </l>
+               </q>
+               <q> 
+                  <l>A greater Plague to this our Northerne Clime</l> 
+                  <l>Never yet came; nor can, in After-Time.</l>
+               </q> But to
+returne, from the purſuit of theſe <hi>Salvages.</hi> Nature hath given,
+yea ſhee hath ſo ſtrongly <hi>inha<g ref="char:EOLhyphen"/>bituated</hi> a laudable Deſire in
+all Creatures to<note n="*" place="margin">
+                  <hi>Salvianus</hi> excellently
+demonſtrates this in Bees. <hi>De guber Dei</hi> l. 4. p. 120.</note>
+pre<g ref="char:EOLhyphen"/>ſerue their <hi>Species;</hi> that directly or indirectly to at<g ref="char:EOLhyphen"/>tempt the
+Contrary, were more then Monſtrous Immanity. Families, be they <hi>Princely,
+Noble, Gen<g ref="char:EOLhyphen"/>tile,</hi> or <hi>Vulgar,</hi> are in a ſort particular Kinds, or
+<hi>Spe<g ref="char:EOLhyphen"/>cies</hi> allow'd of by Natures Law to bee raiſed,<note place="margin">Totus nam<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> mundus, &amp; totum huma<g ref="char:EOLhyphen"/>num genus, pignus eſt
+cre<g ref="char:EOLhyphen"/>atoris ſui. <hi>Sal<g ref="char:EOLhyphen"/>vian. vbi ſup.</hi>
+               </note> and maintain'd, vnder,
+or in their cheefe <hi>Genus,</hi> Mankind Vniverſall: which to defeat or
+overthrow, by irre<g ref="char:EOLhyphen"/>gular, extravagant, and exorbitant Courſes, let the
+Philoſopher, either Naturall or Morall; the Lawier either Civill or Canon;
+the Divine, Schoolman, or Caſuiſt; judge how puniſhable.</p>
+            <p>
+               <pb n="55" facs="tcp:94219:33"/>Morall Law-makers in ancient Times
+praeter<g ref="char:EOLhyphen"/>mitted to make Lawes againſt Offenders of this na<g ref="char:EOLhyphen"/>ture. Being asked
+Why? They anſwer'd: That no Man could be ſo impiouſly ingrate, or
+inhumane. Whereby is evidenced, how <hi>tranſcendently hay<g ref="char:EOLhyphen"/>nous</hi> the
+Offenſe was adjudged by them, and how ſevere Puniſhment (were they to
+make Lawes in theſe our corrupt Times) they would preſcribe for ſuch
+<hi>Cardinall Criminalls.</hi>
+            </p>
+            <p>Thus much for the Ventilation of the preſent Point in
+Queſtion. In the arguing whereof, if what I write in defenſe of Younger
+Brothers (as here the Caſe is put) I ſeeme to haue receau'd <hi>Ex
+tra<g ref="char:EOLhyphen"/>duce,</hi> rather then <hi>Ex certâ ſcientiâ,</hi> the
+wiſer ſort will (I hope) not blame mee. For my Intent was onely, (as at
+firſt I promiſed) to ſet downe a Ta<g ref="char:EOLhyphen"/>ble-Diſcourſe, and not a
+Controverſy diſcuſt in Schooles. If I haue ſpoken according to
+Dialecti<g ref="char:EOLhyphen"/>call Reaſon (as I beleeue) then may I ſafely thinke, that my
+Diſcourſe is arm'd with ſtrong Au<g ref="char:EOLhyphen"/>thority. For what hath beene ſpoken
+heretofore truely, which Reaſon hath not dictated to all<note n="*" place="margin">
+                  <hi>Salvianus</hi> in this Caſe may ſpeake for All: <hi>Nam
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> omnes admodum filij membra
+parentum eſſe videantur, non putandi ſunt tamen membra eorum eſſe
+à quibus affectu caeperint diſcrepare: quia morum degenerantium
+pravitate pereunt in talibus beneficia naturae:</hi> Though all Sonnes be
+equally Mem<g ref="char:EOLhyphen"/>bers (or Portions) of their Parents, yet are not They ſo to be
+reputed, that ſhall <hi>by <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+Courſes</hi> wilfully diſmember themſelues from them: for, degenerate
+Conditi<g ref="char:EOLhyphen"/>ons tender ſuch Children vnworthy of the Benefits of Nature.
+<hi>Salvian de gubern. Dei. lib.</hi> 3<hi rend="sup">o</hi>.</note> Au<g ref="char:EOLhyphen"/>thors Pennes? If therefore
+I were able to cite a <pb n="56" facs="tcp:94219:34"/> Thouſand Great Authors for what I
+haue ſaid, yet All would amount to no more, but that which Naturall Reaſon
+hath, or may teach daily. All which, with my Selfe, I intruſt to the gentle
+and equall Cenſure of my Courteous <hi>Reader.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <trailer>
+               <hi>Implumis ales nunquam Coelum Omnivago penetret
+volatu.</hi> LAVS DEO ET IESV MEO.</trailer>
+            <pb facs="tcp:94219:34"/>
+         </div>
+      </body>
+   </text>
+</TEI>
